@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-08-10T18:26:29.756198Z",
-  "monitoringCount": 23,
+  "checkedAt": "2026-08-10T18:50:45.203767Z",
+  "monitoringCount": 28,
   "longHaul": [
     {
       "code": "NYC",
@@ -36,25 +36,25 @@
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
-      "price": 637,
+      "price": 615,
       "threshold": 722,
       "baseline": 1204,
       "deal": true,
       "nights": 11,
-      "departure": "2026-10-19T12:05:00+02:00",
-      "return": "2026-10-30T19:30:00-07:00",
+      "departure": "2026-10-19T07:15:00+02:00",
+      "return": "2026-10-30T14:22:00-07:00",
       "dates": "Oct 19 - Oct 30",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "AY",
+          "BA",
           "BUD",
           "LAX",
           null
         ],
         [
-          "AY",
+          "BA",
           "LAX",
           "BUD",
           null
@@ -200,7 +200,7 @@
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
-      "price": 88,
+      "price": 86,
       "threshold": 137,
       "baseline": 229,
       "deal": true,
@@ -345,6 +345,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2809IST30091"
+    },
+    {
+      "code": "BGO",
+      "city": "Bergen",
+      "region": "europe",
+      "price": 98,
+      "threshold": 100,
+      "baseline": 168,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-08-31T11:20:00+02:00",
+      "return": "2026-09-04T14:40:00+02:00",
+      "dates": "Aug 31 - Sep 4",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BGO",
+          null
+        ],
+        [
+          "W6",
+          "BGO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD3108BGO04091"
     }
   ]
 }
