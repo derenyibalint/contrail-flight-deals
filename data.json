@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-08-10T18:50:45.203767Z",
+  "checkedAt": "2026-08-10T22:01:19.554594Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "NYC",
       "city": "New York",
       "region": "long_haul",
-      "price": 555,
+      "price": 562,
       "threshold": 564,
       "baseline": 940,
       "deal": true,
-      "nights": 14,
-      "departure": "2026-10-13T14:20:00+02:00",
-      "return": "2026-10-27T18:30:00-04:00",
-      "dates": "Oct 13 - Oct 27",
+      "nights": 7,
+      "departure": "2026-10-06T07:00:00+02:00",
+      "return": "2026-10-13T13:25:00-04:00",
+      "dates": "Oct 6 - Oct 13",
       "method": "native",
       "seats": null,
       "legs": [
@@ -30,7 +30,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1310NYC27101"
+      "deep_link": "https://www.aviasales.com/search/BUD0610NYC13101"
     },
     {
       "code": "LAX",
@@ -137,72 +137,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD2509LON28091"
     },
     {
-      "code": "PAR",
-      "city": "Paris",
+      "code": "MAD",
+      "city": "Madrid",
       "region": "europe",
-      "price": 64,
-      "threshold": 73,
-      "baseline": 121,
+      "price": 89,
+      "threshold": 94,
+      "baseline": 156,
       "deal": true,
       "nights": 2,
-      "departure": "2026-09-14T18:55:00+02:00",
-      "return": "2026-09-16T16:00:00+02:00",
-      "dates": "Sep 14 - Sep 16",
+      "departure": "2026-09-28T06:10:00+02:00",
+      "return": "2026-09-30T09:40:00+02:00",
+      "dates": "Sep 28 - Sep 30",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "FR",
           "BUD",
-          "PAR",
+          "MAD",
           null
         ],
         [
           "FR",
-          "PAR",
+          "MAD",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1409PAR16091"
-    },
-    {
-      "code": "MIL",
-      "city": "Milan",
-      "region": "europe",
-      "price": 35,
-      "threshold": 35,
-      "baseline": 58,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-09-14T20:10:00+02:00",
-      "return": "2026-09-18T21:20:00+02:00",
-      "dates": "Sep 14 - Sep 18",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "MIL",
-          null
-        ],
-        [
-          "FR",
-          "MIL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1409MIL18091"
+      "deep_link": "https://www.aviasales.com/search/BUD2809MAD30091"
     },
     {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
       "price": 86,
-      "threshold": 137,
-      "baseline": 229,
+      "threshold": 136,
+      "baseline": 226,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
