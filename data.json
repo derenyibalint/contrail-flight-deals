@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-11T16:13:17.401510Z",
+  "checkedAt": "2026-08-11T19:29:06.999015Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 89,
-      "threshold": 94,
-      "baseline": 158,
+      "threshold": 98,
+      "baseline": 164,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-28T06:10:00+02:00",
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 55,
-      "baseline": 91,
+      "threshold": 53,
+      "baseline": 88,
       "deal": true,
       "nights": 2,
       "departure": "2026-10-14T06:05:00+02:00",
@@ -125,42 +125,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD1410ROM16101"
     },
     {
-      "code": "MIL",
-      "city": "Milan",
-      "region": "europe",
-      "price": 35,
-      "threshold": 36,
-      "baseline": 60,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-09-14T20:10:00+02:00",
-      "return": "2026-09-18T21:20:00+02:00",
-      "dates": "Sep 14 - Sep 18",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "MIL",
-          null
-        ],
-        [
-          "FR",
-          "MIL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1409MIL18091"
-    },
-    {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
       "price": 88,
-      "threshold": 136,
-      "baseline": 228,
+      "threshold": 137,
+      "baseline": 229,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -189,8 +159,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 66,
-      "baseline": 110,
+      "threshold": 67,
+      "baseline": 111,
       "deal": true,
       "nights": 4,
       "departure": "2026-09-25T06:10:00+02:00",
@@ -213,36 +183,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2509ATH29091"
-    },
-    {
-      "code": "CPH",
-      "city": "Copenhagen",
-      "region": "europe",
-      "price": 59,
-      "threshold": 59,
-      "baseline": 99,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-10-02T12:10:00+02:00",
-      "return": "2026-10-04T14:40:00+02:00",
-      "dates": "Oct 2 - Oct 4",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "CPH",
-          null
-        ],
-        [
-          "W6",
-          "CPH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0210CPH04101"
     },
     {
       "code": "DUB",
@@ -279,7 +219,7 @@
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 71,
+      "threshold": 70,
       "baseline": 118,
       "deal": true,
       "nights": 5,
@@ -310,7 +250,7 @@
       "region": "europe",
       "price": 91,
       "threshold": 93,
-      "baseline": 155,
+      "baseline": 154,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-28T20:25:00+02:00",
@@ -339,8 +279,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 98,
-      "threshold": 100,
-      "baseline": 168,
+      "threshold": 104,
+      "baseline": 173,
       "deal": true,
       "nights": 4,
       "departure": "2026-08-31T11:20:00+02:00",
