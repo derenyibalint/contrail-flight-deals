@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-11T04:43:31.475415Z",
+  "checkedAt": "2026-08-11T07:41:39.094372Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 615,
-      "threshold": 714,
-      "baseline": 1190,
+      "threshold": 697,
+      "baseline": 1161,
       "deal": true,
       "nights": 11,
       "departure": "2026-10-19T07:15:00+02:00",
@@ -31,48 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1910LAX30101"
-    },
-    {
-      "code": "SEA",
-      "city": "Seattle",
-      "region": "long_haul",
-      "price": 1716,
-      "threshold": 560,
-      "baseline": null,
-      "deal": false,
-      "nights": 12,
-      "departure": "2026-09-01T22:00:00+02:00",
-      "return": "2026-09-15T15:40:00",
-      "dates": "Sep 1 - Sep 15",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "VIE",
-          108
-        ],
-        [
-          "DE",
-          "VIE",
-          "SEA",
-          766
-        ],
-        [
-          "DE",
-          "SEA",
-          "FRA",
-          741
-        ],
-        [
-          "AL",
-          "FRA",
-          "BUD",
-          101
-        ]
-      ],
-      "deep_link": ""
     }
   ],
   "europe": [
@@ -80,13 +38,13 @@
       "code": "LON",
       "city": "London",
       "region": "europe",
-      "price": 60,
+      "price": 62,
       "threshold": 68,
       "baseline": 114,
       "deal": true,
       "nights": 3,
       "departure": "2026-09-25T22:05:00+02:00",
-      "return": "2026-09-28T18:05:00+01:00",
+      "return": "2026-09-28T16:20:00+01:00",
       "dates": "Sep 25 - Sep 28",
       "method": "native",
       "seats": null,
@@ -137,6 +95,66 @@
       "deep_link": "https://www.aviasales.com/search/BUD2809MAD30091"
     },
     {
+      "code": "ROM",
+      "city": "Rome",
+      "region": "europe",
+      "price": 49,
+      "threshold": 49,
+      "baseline": 82,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-10-14T06:05:00+02:00",
+      "return": "2026-10-16T21:20:00+02:00",
+      "dates": "Oct 14 - Oct 16",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "ROM",
+          null
+        ],
+        [
+          "W6",
+          "ROM",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1410ROM16101"
+    },
+    {
+      "code": "MIL",
+      "city": "Milan",
+      "region": "europe",
+      "price": 35,
+      "threshold": 35,
+      "baseline": 59,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-09-14T20:10:00+02:00",
+      "return": "2026-09-18T21:20:00+02:00",
+      "dates": "Sep 14 - Sep 18",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "MIL",
+          null
+        ],
+        [
+          "FR",
+          "MIL",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1409MIL18091"
+    },
+    {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
@@ -172,7 +190,7 @@
       "region": "europe",
       "price": 63,
       "threshold": 67,
-      "baseline": 111,
+      "baseline": 112,
       "deal": true,
       "nights": 4,
       "departure": "2026-09-25T06:10:00+02:00",
@@ -255,36 +273,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 91,
-      "threshold": 92,
-      "baseline": 154,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-09-28T20:25:00+02:00",
-      "return": "2026-09-30T09:25:00+03:00",
-      "dates": "Sep 28 - Sep 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2809IST30091"
     },
     {
       "code": "BGO",
