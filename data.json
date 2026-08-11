@@ -1,44 +1,14 @@
 {
-  "checkedAt": "2026-08-10T22:01:19.554594Z",
+  "checkedAt": "2026-08-11T02:31:10.344542Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 562,
-      "threshold": 564,
-      "baseline": 940,
-      "deal": true,
-      "nights": 7,
-      "departure": "2026-10-06T07:00:00+02:00",
-      "return": "2026-10-13T13:25:00-04:00",
-      "dates": "Oct 6 - Oct 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "NYC",
-          null
-        ],
-        [
-          "FR",
-          "NYC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0610NYC13101"
-    },
     {
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 615,
       "threshold": 722,
-      "baseline": 1204,
+      "baseline": 1203,
       "deal": true,
       "nights": 11,
       "departure": "2026-10-19T07:15:00+02:00",
@@ -172,7 +142,7 @@
       "region": "europe",
       "price": 86,
       "threshold": 136,
-      "baseline": 226,
+      "baseline": 227,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
