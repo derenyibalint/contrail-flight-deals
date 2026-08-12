@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-12T10:29:57.551591Z",
+  "checkedAt": "2026-08-12T13:52:21.934506Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 40,
-      "threshold": 53,
-      "baseline": 89,
+      "threshold": 54,
+      "baseline": 90,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -129,8 +129,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 33,
-      "threshold": 36,
-      "baseline": 60,
+      "threshold": 35,
+      "baseline": 59,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-08T22:00:00+02:00",
@@ -159,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 88,
-      "threshold": 138,
-      "baseline": 230,
+      "threshold": 136,
+      "baseline": 228,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -183,36 +183,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD3009LIS06101"
-    },
-    {
-      "code": "STO",
-      "city": "Stockholm",
-      "region": "europe",
-      "price": 62,
-      "threshold": 62,
-      "baseline": 103,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-09-04T06:45:00+02:00",
-      "return": "2026-09-06T07:05:00+02:00",
-      "dates": "Sep 4 - Sep 6",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "STO",
-          null
-        ],
-        [
-          "FR",
-          "STO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0409STO06091"
     },
     {
       "code": "BER",
@@ -249,8 +219,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 91,
-      "threshold": 95,
-      "baseline": 159,
+      "threshold": 97,
+      "baseline": 161,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-28T20:25:00+02:00",
