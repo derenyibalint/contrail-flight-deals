@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-13T22:06:26.523297Z",
+  "checkedAt": "2026-08-14T03:02:19.758623Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -31,48 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1709LAX29091"
-    },
-    {
-      "code": "KEF",
-      "city": "Reykjavik",
-      "region": "long_haul",
-      "price": 841,
-      "threshold": 174,
-      "baseline": 290,
-      "deal": false,
-      "nights": 4,
-      "departure": "2026-10-13T05:30:00+02:00",
-      "return": "2026-10-20T02:20:00",
-      "dates": "Oct 13 - Oct 20",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          93
-        ],
-        [
-          "W6",
-          "IST",
-          "KEF",
-          301
-        ],
-        [
-          "W6",
-          "KEF",
-          "IST",
-          352
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          95
-        ]
-      ],
-      "deep_link": ""
     }
   ],
   "europe": [
@@ -201,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 88,
-      "threshold": 137,
-      "baseline": 228,
+      "threshold": 135,
+      "baseline": 226,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -321,8 +279,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 98,
-      "threshold": 107,
-      "baseline": 179,
+      "threshold": 109,
+      "baseline": 182,
       "deal": true,
       "nights": 4,
       "departure": "2026-08-31T11:20:00+02:00",
