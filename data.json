@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-14T10:26:41.729500Z",
+  "checkedAt": "2026-08-14T13:48:16.423691Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -31,6 +31,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1709LAX29091"
+    },
+    {
+      "code": "KEF",
+      "city": "Reykjavik",
+      "region": "long_haul",
+      "price": 179,
+      "threshold": 182,
+      "baseline": 303,
+      "deal": true,
+      "nights": 7,
+      "departure": "2026-11-19T08:25:00+01:00",
+      "return": "2026-11-26T20:45:00Z",
+      "dates": "Nov 19 - Nov 26",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W4",
+          "BUD",
+          "KEF",
+          null
+        ],
+        [
+          "W4",
+          "KEF",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1911KEF26111"
     }
   ],
   "europe": [
@@ -129,8 +159,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 33,
-      "threshold": 35,
-      "baseline": 59,
+      "threshold": 36,
+      "baseline": 60,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-08T22:00:00+02:00",
@@ -189,8 +219,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 58,
-      "threshold": 59,
-      "baseline": 98,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -220,7 +250,7 @@
       "region": "europe",
       "price": 52,
       "threshold": 73,
-      "baseline": 121,
+      "baseline": 122,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-14T06:20:00+02:00",
@@ -278,14 +308,14 @@
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
-      "price": 98,
+      "price": 96,
       "threshold": 107,
       "baseline": 179,
       "deal": true,
-      "nights": 4,
-      "departure": "2026-08-31T11:20:00+02:00",
-      "return": "2026-09-04T14:40:00+02:00",
-      "dates": "Aug 31 - Sep 4",
+      "nights": 5,
+      "departure": "2026-08-21T11:20:00+02:00",
+      "return": "2026-08-26T14:40:00+02:00",
+      "dates": "Aug 21 - Aug 26",
       "method": "native",
       "seats": null,
       "legs": [
@@ -302,7 +332,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD3108BGO04091"
+      "deep_link": "https://www.aviasales.com/search/BUD2108BGO26081"
     }
   ]
 }
