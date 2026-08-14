@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-14T16:08:12.404877Z",
+  "checkedAt": "2026-08-14T19:17:48.789538Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 689,
-      "baseline": 1149,
+      "threshold": 677,
+      "baseline": 1128,
       "deal": true,
       "nights": 12,
       "departure": "2026-09-17T05:55:00+02:00",
@@ -31,36 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1709LAX29091"
-    },
-    {
-      "code": "KEF",
-      "city": "Reykjavik",
-      "region": "long_haul",
-      "price": 179,
-      "threshold": 182,
-      "baseline": 303,
-      "deal": true,
-      "nights": 7,
-      "departure": "2026-11-19T08:25:00+01:00",
-      "return": "2026-11-26T20:45:00Z",
-      "dates": "Nov 19 - Nov 26",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W4",
-          "BUD",
-          "KEF",
-          null
-        ],
-        [
-          "W4",
-          "KEF",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1911KEF26111"
     }
   ],
   "europe": [
@@ -98,14 +68,14 @@
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
-      "price": 89,
+      "price": 85,
       "threshold": 95,
       "baseline": 158,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-09-28T06:10:00+02:00",
-      "return": "2026-09-30T09:40:00+02:00",
-      "dates": "Sep 28 - Sep 30",
+      "nights": 3,
+      "departure": "2026-11-08T05:45:00+01:00",
+      "return": "2026-11-11T19:35:00+01:00",
+      "dates": "Nov 8 - Nov 11",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,14 +92,14 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2809MAD30091"
+      "deep_link": "https://www.aviasales.com/search/BUD0811MAD11111"
     },
     {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 40,
-      "threshold": 62,
+      "threshold": 61,
       "baseline": 102,
       "deal": true,
       "nights": 4,
@@ -189,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 88,
-      "threshold": 135,
-      "baseline": 224,
+      "threshold": 138,
+      "baseline": 230,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -220,7 +190,7 @@
       "region": "europe",
       "price": 58,
       "threshold": 58,
-      "baseline": 97,
+      "baseline": 96,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -249,8 +219,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 73,
-      "baseline": 122,
+      "threshold": 74,
+      "baseline": 123,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-14T06:20:00+02:00",
@@ -279,8 +249,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 91,
-      "threshold": 92,
-      "baseline": 154,
+      "threshold": 94,
+      "baseline": 156,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-28T20:25:00+02:00",
@@ -339,8 +309,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 127,
-      "baseline": 212,
+      "threshold": 124,
+      "baseline": 206,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
