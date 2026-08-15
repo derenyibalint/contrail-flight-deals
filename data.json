@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-15T01:52:35.544408Z",
+  "checkedAt": "2026-08-15T03:57:34.616969Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 677,
-      "baseline": 1128,
+      "threshold": 664,
+      "baseline": 1107,
       "deal": true,
       "nights": 12,
       "departure": "2026-09-17T05:55:00+02:00",
@@ -279,8 +279,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 96,
-      "threshold": 107,
-      "baseline": 179,
+      "threshold": 104,
+      "baseline": 173,
       "deal": true,
       "nights": 5,
       "departure": "2026-08-21T11:20:00+02:00",
