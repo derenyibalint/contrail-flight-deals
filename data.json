@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-15T09:44:12.485887Z",
+  "checkedAt": "2026-08-15T13:02:14.241126Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -98,14 +98,14 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 40,
+      "price": 42,
       "threshold": 58,
       "baseline": 96,
       "deal": true,
-      "nights": 4,
-      "departure": "2026-11-02T06:05:00+01:00",
+      "nights": 5,
+      "departure": "2026-11-01T06:05:00+01:00",
       "return": "2026-11-06T14:20:00+01:00",
-      "dates": "Nov 2 - Nov 6",
+      "dates": "Nov 1 - Nov 6",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,7 +122,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0211ROM06111"
+      "deep_link": "https://www.aviasales.com/search/BUD0111ROM06111"
     },
     {
       "code": "MIL",
@@ -159,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 88,
-      "threshold": 139,
-      "baseline": 231,
+      "threshold": 138,
+      "baseline": 230,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -189,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 74,
-      "baseline": 123,
+      "threshold": 73,
+      "baseline": 122,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-14T06:20:00+02:00",
@@ -219,8 +219,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 91,
-      "threshold": 95,
-      "baseline": 158,
+      "threshold": 101,
+      "baseline": 169,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-28T20:25:00+02:00",
@@ -243,36 +243,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2809IST30091"
-    },
-    {
-      "code": "BGO",
-      "city": "Bergen",
-      "region": "europe",
-      "price": 96,
-      "threshold": 104,
-      "baseline": 173,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-08-21T11:20:00+02:00",
-      "return": "2026-08-26T14:40:00+02:00",
-      "dates": "Aug 21 - Aug 26",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "BGO",
-          null
-        ],
-        [
-          "W6",
-          "BGO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2108BGO26081"
     },
     {
       "code": "OPO",
