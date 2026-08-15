@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-14T21:43:49.585225Z",
+  "checkedAt": "2026-08-15T01:52:35.544408Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "London",
       "region": "europe",
       "price": 58,
-      "threshold": 64,
-      "baseline": 106,
+      "threshold": 63,
+      "baseline": 105,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-06T17:30:00+02:00",
