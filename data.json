@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-15T15:39:36.242494Z",
+  "checkedAt": "2026-08-15T18:50:46.846120Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -35,42 +35,42 @@
   ],
   "europe": [
     {
-      "code": "LON",
-      "city": "London",
+      "code": "BCN",
+      "city": "Barcelona",
       "region": "europe",
-      "price": 58,
-      "threshold": 62,
-      "baseline": 103,
+      "price": 79,
+      "threshold": 81,
+      "baseline": 135,
       "deal": true,
-      "nights": 6,
-      "departure": "2026-10-06T17:30:00+02:00",
-      "return": "2026-10-12T07:40:00+01:00",
-      "dates": "Oct 6 - Oct 12",
+      "nights": 3,
+      "departure": "2026-10-11T05:45:00+02:00",
+      "return": "2026-10-14T19:15:00+02:00",
+      "dates": "Oct 11 - Oct 14",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
-          "LON",
+          "BCN",
           null
         ],
         [
-          "W6",
-          "LON",
+          "FR",
+          "BCN",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0610LON12101"
+      "deep_link": "https://www.aviasales.com/search/BUD1110BCN14101"
     },
     {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
       "price": 85,
-      "threshold": 95,
-      "baseline": 158,
+      "threshold": 94,
+      "baseline": 157,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-08T05:45:00+01:00",
@@ -130,7 +130,7 @@
       "region": "europe",
       "price": 88,
       "threshold": 140,
-      "baseline": 233,
+      "baseline": 234,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -159,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 74,
-      "baseline": 123,
+      "threshold": 76,
+      "baseline": 126,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-14T06:20:00+02:00",
@@ -219,8 +219,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 120,
-      "baseline": 200,
+      "threshold": 122,
+      "baseline": 203,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
