@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T15:40:02.418667Z",
+  "checkedAt": "2026-08-16T18:49:46.076506Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 67,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-24T18:40:00+02:00",
@@ -100,7 +100,7 @@
       "region": "europe",
       "price": 42,
       "threshold": 56,
-      "baseline": 94,
+      "baseline": 93,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-01T06:05:00+01:00",
@@ -129,7 +129,7 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 104,
-      "threshold": 143,
+      "threshold": 142,
       "baseline": 238,
       "deal": true,
       "nights": 6,
@@ -188,14 +188,14 @@
       "code": "IST",
       "city": "Istanbul",
       "region": "europe",
-      "price": 91,
+      "price": 95,
       "threshold": 96,
       "baseline": 160,
       "deal": true,
       "nights": 2,
-      "departure": "2026-09-28T20:25:00+02:00",
-      "return": "2026-09-30T09:25:00+03:00",
-      "dates": "Sep 28 - Sep 30",
+      "departure": "2026-11-27T05:00:00+01:00",
+      "return": "2026-11-29T09:55:00+03:00",
+      "dates": "Nov 27 - Nov 29",
       "method": "native",
       "seats": null,
       "legs": [
@@ -212,15 +212,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2809IST30091"
+      "deep_link": "https://www.aviasales.com/search/BUD2711IST29111"
     },
     {
       "code": "OPO",
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 117,
-      "baseline": 194,
+      "threshold": 122,
+      "baseline": 204,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
