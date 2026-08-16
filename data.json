@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T13:03:55.074033Z",
+  "checkedAt": "2026-08-16T15:40:02.418667Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -35,42 +35,42 @@
   ],
   "europe": [
     {
-      "code": "BCN",
-      "city": "Barcelona",
+      "code": "PAR",
+      "city": "Paris",
       "region": "europe",
-      "price": 79,
-      "threshold": 83,
-      "baseline": 138,
+      "price": 67,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-10-11T05:45:00+02:00",
-      "return": "2026-10-14T19:15:00+02:00",
-      "dates": "Oct 11 - Oct 14",
+      "nights": 6,
+      "departure": "2026-09-24T18:40:00+02:00",
+      "return": "2026-09-30T16:00:00+02:00",
+      "dates": "Sep 24 - Sep 30",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "FR",
           "BUD",
-          "BCN",
+          "PAR",
           null
         ],
         [
           "FR",
-          "BCN",
+          "PAR",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1110BCN14101"
+      "deep_link": "https://www.aviasales.com/search/BUD2409PAR30091"
     },
     {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
       "price": 85,
-      "threshold": 93,
-      "baseline": 156,
+      "threshold": 95,
+      "baseline": 158,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-08T05:45:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 42,
-      "threshold": 57,
-      "baseline": 95,
+      "threshold": 56,
+      "baseline": 94,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-01T06:05:00+01:00",
@@ -128,31 +128,31 @@
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
-      "price": 88,
-      "threshold": 142,
-      "baseline": 236,
+      "price": 104,
+      "threshold": 143,
+      "baseline": 238,
       "deal": true,
       "nights": 6,
-      "departure": "2026-09-30T16:45:00+02:00",
-      "return": "2026-10-06T19:10:00+01:00",
-      "dates": "Sep 30 - Oct 6",
+      "departure": "2026-10-07T13:45:00+02:00",
+      "return": "2026-10-13T19:10:00+01:00",
+      "dates": "Oct 7 - Oct 13",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "LIS",
           null
         ],
         [
-          "W6",
+          "FR",
           "LIS",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD3009LIS06101"
+      "deep_link": "https://www.aviasales.com/search/BUD0710LIS13101"
     },
     {
       "code": "BER",
