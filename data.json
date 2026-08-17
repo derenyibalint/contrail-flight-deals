@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T21:37:34.220833Z",
+  "checkedAt": "2026-08-17T01:57:31.597396Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 67,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 70,
+      "baseline": 117,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-24T18:40:00+02:00",
@@ -153,6 +153,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0710LIS13101"
+    },
+    {
+      "code": "CPH",
+      "city": "Copenhagen",
+      "region": "europe",
+      "price": 59,
+      "threshold": 59,
+      "baseline": 99,
+      "deal": true,
+      "nights": 5,
+      "departure": "2026-09-10T17:55:00+02:00",
+      "return": "2026-09-15T15:00:00+02:00",
+      "dates": "Sep 10 - Sep 15",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "CPH",
+          null
+        ],
+        [
+          "FR",
+          "CPH",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1009CPH15091"
     },
     {
       "code": "BER",
