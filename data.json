@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-18T15:49:53.667341Z",
+  "checkedAt": "2026-08-18T19:00:30.984254Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -35,12 +35,42 @@
   ],
   "europe": [
     {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 67,
+      "threshold": 67,
+      "baseline": 111,
+      "deal": true,
+      "nights": 6,
+      "departure": "2026-09-24T18:40:00+02:00",
+      "return": "2026-09-30T16:00:00+02:00",
+      "dates": "Sep 24 - Sep 30",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "FR",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2409PAR30091"
+    },
+    {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 43,
       "threshold": 58,
-      "baseline": 97,
+      "baseline": 96,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -95,12 +125,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD3009LIS06101"
     },
     {
+      "code": "STO",
+      "city": "Stockholm",
+      "region": "europe",
+      "price": 52,
+      "threshold": 56,
+      "baseline": 93,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-10-09T06:20:00+02:00",
+      "return": "2026-10-11T22:15:00+02:00",
+      "dates": "Oct 9 - Oct 11",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "STO",
+          null
+        ],
+        [
+          "W6",
+          "STO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0910STO11101"
+    },
+    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 64,
       "threshold": 70,
-      "baseline": 116,
+      "baseline": 117,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-07T19:50:00+01:00",
