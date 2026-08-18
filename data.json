@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-17T21:44:17.831504Z",
+  "checkedAt": "2026-08-18T01:53:40.437014Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 655,
-      "baseline": 1091,
+      "threshold": 663,
+      "baseline": 1105,
       "deal": true,
       "nights": 12,
       "departure": "2026-09-17T05:55:00+02:00",
