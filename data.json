@@ -1,36 +1,36 @@
 {
-  "checkedAt": "2026-08-19T15:49:35.087107Z",
+  "checkedAt": "2026-08-19T18:56:42.167723Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
-      "price": 605,
+      "price": 608,
       "threshold": 636,
       "baseline": 1060,
       "deal": true,
-      "nights": 12,
-      "departure": "2026-09-17T05:55:00+02:00",
-      "return": "2026-09-29T17:30:00-07:00",
-      "dates": "Sep 17 - Sep 29",
+      "nights": 13,
+      "departure": "2026-11-12T20:00:00+01:00",
+      "return": "2026-11-25T19:10:00-08:00",
+      "dates": "Nov 12 - Nov 25",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "LH",
+          "LX",
           "BUD",
           "LAX",
           null
         ],
         [
-          "LH",
+          "LX",
           "LAX",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1709LAX29091"
+      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
     }
   ],
   "europe": [
@@ -40,7 +40,7 @@
       "region": "europe",
       "price": 67,
       "threshold": 68,
-      "baseline": 113,
+      "baseline": 114,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-24T18:40:00+02:00",
@@ -99,8 +99,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 121,
-      "threshold": 145,
-      "baseline": 242,
+      "threshold": 149,
+      "baseline": 248,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -125,42 +125,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD3009LIS06101"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
-      "region": "europe",
-      "price": 82,
-      "threshold": 82,
-      "baseline": 136,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-09-05T18:30:00+02:00",
-      "return": "2026-09-08T09:35:00+03:00",
-      "dates": "Sep 5 - Sep 8",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "W6",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0509ATH08091"
-    },
-    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 54,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 73,
+      "baseline": 121,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T07:00:00+01:00",
@@ -185,12 +155,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD1311BER16111"
     },
     {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 93,
+      "threshold": 93,
+      "baseline": 156,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-10-10T20:00:00+02:00",
+      "return": "2026-10-13T09:25:00+03:00",
+      "dates": "Oct 10 - Oct 13",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
+    },
+    {
       "code": "OPO",
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 126,
-      "baseline": 210,
+      "threshold": 124,
+      "baseline": 208,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
