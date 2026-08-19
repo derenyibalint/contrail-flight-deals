@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-19T09:52:22.524349Z",
+  "checkedAt": "2026-08-19T13:13:10.782870Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 635,
-      "baseline": 1059,
+      "threshold": 636,
+      "baseline": 1060,
       "deal": true,
       "nights": 12,
       "departure": "2026-09-17T05:55:00+02:00",
@@ -35,12 +35,42 @@
   ],
   "europe": [
     {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 67,
+      "threshold": 68,
+      "baseline": 112,
+      "deal": true,
+      "nights": 6,
+      "departure": "2026-09-24T18:40:00+02:00",
+      "return": "2026-09-30T16:00:00+02:00",
+      "dates": "Sep 24 - Sep 30",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "FR",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2409PAR30091"
+    },
+    {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 43,
-      "threshold": 58,
-      "baseline": 97,
+      "threshold": 57,
+      "baseline": 94,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -69,8 +99,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 121,
-      "threshold": 143,
-      "baseline": 239,
+      "threshold": 145,
+      "baseline": 241,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -129,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 54,
-      "threshold": 70,
-      "baseline": 117,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T07:00:00+01:00",
@@ -159,8 +189,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 122,
-      "baseline": 204,
+      "threshold": 128,
+      "baseline": 214,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
