@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-19T13:13:10.782870Z",
+  "checkedAt": "2026-08-19T15:49:35.087107Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -40,7 +40,7 @@
       "region": "europe",
       "price": 67,
       "threshold": 68,
-      "baseline": 112,
+      "baseline": 113,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-24T18:40:00+02:00",
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 43,
-      "threshold": 57,
-      "baseline": 94,
+      "threshold": 54,
+      "baseline": 90,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -100,7 +100,7 @@
       "region": "europe",
       "price": 121,
       "threshold": 145,
-      "baseline": 241,
+      "baseline": 242,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -125,34 +125,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD3009LIS06101"
     },
     {
-      "code": "STO",
-      "city": "Stockholm",
+      "code": "ATH",
+      "city": "Athens",
       "region": "europe",
-      "price": 61,
-      "threshold": 61,
-      "baseline": 102,
+      "price": 82,
+      "threshold": 82,
+      "baseline": 136,
       "deal": true,
-      "nights": 4,
-      "departure": "2026-09-18T06:45:00+02:00",
-      "return": "2026-09-22T20:00:00+02:00",
-      "dates": "Sep 18 - Sep 22",
+      "nights": 3,
+      "departure": "2026-09-05T18:30:00+02:00",
+      "return": "2026-09-08T09:35:00+03:00",
+      "dates": "Sep 5 - Sep 8",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
-          "STO",
+          "ATH",
           null
         ],
         [
-          "FR",
-          "STO",
+          "W6",
+          "ATH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1809STO22091"
+      "deep_link": "https://www.aviasales.com/search/BUD0509ATH08091"
     },
     {
       "code": "BER",
@@ -189,8 +189,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 128,
-      "baseline": 214,
+      "threshold": 126,
+      "baseline": 210,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
