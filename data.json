@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-20T19:04:43.643178Z",
+  "checkedAt": "2026-08-20T21:47:15.492353Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -70,7 +70,7 @@
       "region": "europe",
       "price": 67,
       "threshold": 70,
-      "baseline": 116,
+      "baseline": 117,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-24T18:40:00+02:00",
@@ -129,8 +129,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 43,
-      "threshold": 55,
-      "baseline": 91,
+      "threshold": 56,
+      "baseline": 93,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -159,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 132,
-      "threshold": 151,
-      "baseline": 251,
+      "threshold": 150,
+      "baseline": 250,
       "deal": true,
       "nights": 2,
       "departure": "2026-10-19T16:45:00+02:00",
@@ -189,7 +189,7 @@
       "city": "Berlin",
       "region": "europe",
       "price": 48,
-      "threshold": 80,
+      "threshold": 79,
       "baseline": 132,
       "deal": true,
       "nights": 4,
@@ -215,12 +215,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
     },
     {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 93,
+      "threshold": 93,
+      "baseline": 155,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-10-10T20:00:00+02:00",
+      "return": "2026-10-13T09:25:00+03:00",
+      "dates": "Oct 10 - Oct 13",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
+    },
+    {
       "code": "OPO",
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 134,
-      "baseline": 224,
+      "threshold": 135,
+      "baseline": 225,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
