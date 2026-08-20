@@ -1,36 +1,66 @@
 {
-  "checkedAt": "2026-08-20T07:10:43.882261Z",
+  "checkedAt": "2026-08-20T09:52:52.103764Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
-      "price": 608,
+      "price": 615,
       "threshold": 635,
       "baseline": 1058,
       "deal": true,
-      "nights": 13,
-      "departure": "2026-11-12T20:00:00+01:00",
-      "return": "2026-11-25T19:10:00-08:00",
-      "dates": "Nov 12 - Nov 25",
+      "nights": 11,
+      "departure": "2026-10-19T07:15:00+02:00",
+      "return": "2026-10-30T14:22:00-07:00",
+      "dates": "Oct 19 - Oct 30",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "LX",
+          "BA",
           "BUD",
           "LAX",
           null
         ],
         [
-          "LX",
+          "BA",
           "LAX",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
+      "deep_link": "https://www.aviasales.com/search/BUD1910LAX30101"
+    },
+    {
+      "code": "KEF",
+      "city": "Reykjavik",
+      "region": "long_haul",
+      "price": 178,
+      "threshold": 194,
+      "baseline": 323,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-11-19T21:55:00+01:00",
+      "return": "2026-11-22T20:45:00Z",
+      "dates": "Nov 19 - Nov 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W4",
+          "BUD",
+          "KEF",
+          null
+        ],
+        [
+          "W4",
+          "KEF",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1911KEF22111"
     }
   ],
   "europe": [
@@ -69,7 +99,7 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 94,
+      "threshold": 95,
       "baseline": 158,
       "deal": true,
       "nights": 2,
@@ -99,8 +129,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 43,
-      "threshold": 56,
-      "baseline": 94,
+      "threshold": 55,
+      "baseline": 92,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-02T06:05:00+01:00",
@@ -129,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 121,
-      "threshold": 148,
-      "baseline": 248,
+      "threshold": 149,
+      "baseline": 249,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-30T16:45:00+02:00",
@@ -185,12 +215,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD1311BER16111"
     },
     {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 93,
+      "threshold": 94,
+      "baseline": 156,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-10-10T20:00:00+02:00",
+      "return": "2026-10-13T09:25:00+03:00",
+      "dates": "Oct 10 - Oct 13",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
+    },
+    {
       "code": "OPO",
       "city": "Porto",
       "region": "europe",
       "price": 115,
-      "threshold": 130,
-      "baseline": 217,
+      "threshold": 135,
+      "baseline": 225,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T08:25:00+01:00",
