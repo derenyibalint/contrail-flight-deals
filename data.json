@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-21T04:05:11.621068Z",
+  "checkedAt": "2026-08-21T07:11:11.174983Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -37,8 +37,8 @@
       "city": "Reykjavik",
       "region": "long_haul",
       "price": 178,
-      "threshold": 205,
-      "baseline": 342,
+      "threshold": 202,
+      "baseline": 336,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-19T21:55:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 48,
-      "threshold": 79,
-      "baseline": 132,
+      "threshold": 78,
+      "baseline": 130,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-20T10:05:00+02:00",
