@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-21T21:42:48.241466Z",
+  "checkedAt": "2026-08-22T01:53:45.305042Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -189,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 48,
-      "threshold": 71,
-      "baseline": 119,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-20T10:05:00+02:00",
@@ -250,7 +250,7 @@
       "region": "europe",
       "price": 116,
       "threshold": 134,
-      "baseline": 223,
+      "baseline": 224,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
