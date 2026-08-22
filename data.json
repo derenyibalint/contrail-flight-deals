@@ -1,44 +1,14 @@
 {
-  "checkedAt": "2026-08-22T13:04:14.564209Z",
+  "checkedAt": "2026-08-22T15:39:27.743313Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 615,
-      "threshold": 644,
-      "baseline": 1072,
-      "deal": true,
-      "nights": 11,
-      "departure": "2026-10-19T07:15:00+02:00",
-      "return": "2026-10-30T14:22:00-07:00",
-      "dates": "Oct 19 - Oct 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "BA",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "BA",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1910LAX30101"
-    },
     {
       "code": "KEF",
       "city": "Reykjavik",
       "region": "long_haul",
       "price": 178,
-      "threshold": 203,
-      "baseline": 338,
+      "threshold": 204,
+      "baseline": 340,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-19T21:55:00+01:00",
@@ -69,8 +39,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 96,
-      "baseline": 160,
+      "threshold": 94,
+      "baseline": 157,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:25:00+01:00",
@@ -190,7 +160,7 @@
       "region": "europe",
       "price": 48,
       "threshold": 73,
-      "baseline": 122,
+      "baseline": 121,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-20T10:05:00+02:00",
@@ -213,36 +183,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 93,
-      "threshold": 93,
-      "baseline": 154,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-10-10T20:00:00+02:00",
-      "return": "2026-10-13T09:25:00+03:00",
-      "dates": "Oct 10 - Oct 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
     },
     {
       "code": "OPO",
