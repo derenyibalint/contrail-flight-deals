@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-23T04:04:52.547147Z",
+  "checkedAt": "2026-08-23T07:05:53.113908Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 52,
-      "threshold": 54,
-      "baseline": 90,
+      "threshold": 53,
+      "baseline": 89,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-22T21:50:00+02:00",
@@ -213,6 +213,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
+    },
+    {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 93,
+      "threshold": 94,
+      "baseline": 157,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-10-10T20:00:00+02:00",
+      "return": "2026-10-13T09:25:00+03:00",
+      "dates": "Oct 10 - Oct 13",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
     },
     {
       "code": "OPO",
