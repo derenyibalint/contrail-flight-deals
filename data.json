@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-23T02:02:12.616695Z",
+  "checkedAt": "2026-08-23T04:04:52.547147Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -219,8 +219,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 116,
-      "threshold": 135,
-      "baseline": 225,
+      "threshold": 134,
+      "baseline": 223,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
