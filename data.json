@@ -1,46 +1,15 @@
 {
-  "checkedAt": "2026-08-24T04:10:05.563185Z",
+  "checkedAt": "2026-08-24T07:32:07.222007Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "KEF",
-      "city": "Reykjavik",
-      "region": "long_haul",
-      "price": 178,
-      "threshold": 213,
-      "baseline": 355,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-19T21:55:00+01:00",
-      "return": "2026-11-22T20:45:00Z",
-      "dates": "Nov 19 - Nov 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W4",
-          "BUD",
-          "KEF",
-          null
-        ],
-        [
-          "W4",
-          "KEF",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1911KEF22111"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 90,
-      "baseline": 150,
+      "threshold": 91,
+      "baseline": 152,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:25:00+01:00",
@@ -129,8 +98,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 48,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 73,
+      "baseline": 121,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-20T10:05:00+02:00",
@@ -160,7 +129,7 @@
       "region": "europe",
       "price": 93,
       "threshold": 94,
-      "baseline": 156,
+      "baseline": 157,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-10T20:00:00+02:00",
