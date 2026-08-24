@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-24T02:00:23.592956Z",
+  "checkedAt": "2026-08-24T04:10:05.563185Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -159,8 +159,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 93,
-      "threshold": 93,
-      "baseline": 155,
+      "threshold": 94,
+      "baseline": 156,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-10T20:00:00+02:00",
