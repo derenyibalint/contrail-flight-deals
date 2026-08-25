@@ -1,14 +1,14 @@
 {
-  "checkedAt": "2026-08-25T16:03:46.003825Z",
+  "checkedAt": "2026-08-25T19:02:25.109872Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "BOS",
       "city": "Boston",
       "region": "long_haul",
-      "price": 610,
-      "threshold": 648,
-      "baseline": 1080,
+      "price": 600,
+      "threshold": 635,
+      "baseline": 1059,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-25T19:50:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 64,
-      "threshold": 66,
-      "baseline": 110,
+      "threshold": 71,
+      "baseline": 119,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -98,31 +98,31 @@
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
-      "price": 54,
-      "threshold": 66,
-      "baseline": 110,
+      "price": 57,
+      "threshold": 68,
+      "baseline": 112,
       "deal": true,
       "nights": 2,
-      "departure": "2026-09-05T06:55:00+02:00",
-      "return": "2026-09-07T13:10:00+02:00",
-      "dates": "Sep 5 - Sep 7",
+      "departure": "2026-10-09T06:20:00+02:00",
+      "return": "2026-10-11T22:15:00+02:00",
+      "dates": "Oct 9 - Oct 11",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "STO",
           null
         ],
         [
-          "FR",
+          "W6",
           "STO",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0509STO07091"
+      "deep_link": "https://www.aviasales.com/search/BUD0910STO11101"
     },
     {
       "code": "BER",
@@ -155,42 +155,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
     },
     {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 93,
-      "threshold": 94,
-      "baseline": 156,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-10-10T20:00:00+02:00",
-      "return": "2026-10-13T09:25:00+03:00",
-      "dates": "Oct 10 - Oct 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1010IST13101"
-    },
-    {
       "code": "OPO",
       "city": "Porto",
       "region": "europe",
       "price": 116,
       "threshold": 131,
-      "baseline": 218,
+      "baseline": 219,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
