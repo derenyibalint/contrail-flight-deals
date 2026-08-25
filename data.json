@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-25T04:03:49.837288Z",
+  "checkedAt": "2026-08-25T07:11:59.839471Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 91,
-      "baseline": 152,
+      "threshold": 90,
+      "baseline": 150,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:25:00+01:00",
@@ -160,7 +160,7 @@
       "region": "europe",
       "price": 93,
       "threshold": 94,
-      "baseline": 156,
+      "baseline": 157,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-10T20:00:00+02:00",
@@ -189,8 +189,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 116,
-      "threshold": 131,
-      "baseline": 218,
+      "threshold": 132,
+      "baseline": 220,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
