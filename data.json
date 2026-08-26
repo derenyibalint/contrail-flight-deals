@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-26T16:35:01.727774Z",
+  "checkedAt": "2026-08-26T20:09:50.152306Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -40,7 +40,7 @@
       "region": "europe",
       "price": 69,
       "threshold": 87,
-      "baseline": 146,
+      "baseline": 145,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:25:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 56,
-      "threshold": 68,
-      "baseline": 113,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2026-09-04T06:45:00+02:00",
@@ -93,6 +93,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0409STO07091"
+    },
+    {
+      "code": "DUB",
+      "city": "Dublin",
+      "region": "europe",
+      "price": 129,
+      "threshold": 176,
+      "baseline": 294,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-10-13T22:30:00+02:00",
+      "return": "2026-10-15T17:45:00+01:00",
+      "dates": "Oct 13 - Oct 15",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "DUB",
+          null
+        ],
+        [
+          "FR",
+          "DUB",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1310DUB15101"
     },
     {
       "code": "BER",
