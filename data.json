@@ -1,38 +1,7 @@
 {
-  "checkedAt": "2026-08-26T04:06:27.689065Z",
+  "checkedAt": "2026-08-26T07:12:09.597360Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "BOS",
-      "city": "Boston",
-      "region": "long_haul",
-      "price": 600,
-      "threshold": 635,
-      "baseline": 1059,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-11-25T19:50:00+01:00",
-      "return": "2026-11-29T17:35:00-05:00",
-      "dates": "Nov 25 - Nov 29",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "WX",
-          "BUD",
-          "BOS",
-          null
-        ],
-        [
-          "WX",
-          "BOS",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2511BOS29111"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "MAD",
@@ -129,8 +98,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 116,
-      "threshold": 131,
-      "baseline": 218,
+      "threshold": 125,
+      "baseline": 208,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
