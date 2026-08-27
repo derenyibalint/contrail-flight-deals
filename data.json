@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-26T20:09:50.152306Z",
+  "checkedAt": "2026-08-27T00:51:21.303708Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Boston",
       "region": "long_haul",
       "price": 600,
-      "threshold": 635,
-      "baseline": 1059,
+      "threshold": 662,
+      "baseline": 1104,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-25T19:50:00+01:00",
@@ -68,31 +68,31 @@
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
-      "price": 56,
-      "threshold": 60,
-      "baseline": 100,
+      "price": 57,
+      "threshold": 59,
+      "baseline": 98,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-09-04T06:45:00+02:00",
-      "return": "2026-09-07T13:10:00+02:00",
-      "dates": "Sep 4 - Sep 7",
+      "nights": 2,
+      "departure": "2026-10-09T06:20:00+02:00",
+      "return": "2026-10-11T22:15:00+02:00",
+      "dates": "Oct 9 - Oct 11",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "STO",
           null
         ],
         [
-          "FR",
+          "W6",
           "STO",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0409STO07091"
+      "deep_link": "https://www.aviasales.com/search/BUD0910STO11101"
     },
     {
       "code": "DUB",
@@ -159,8 +159,8 @@
       "city": "Porto",
       "region": "europe",
       "price": 116,
-      "threshold": 125,
-      "baseline": 208,
+      "threshold": 122,
+      "baseline": 204,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T08:25:00+01:00",
