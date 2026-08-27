@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-27T00:51:21.303708Z",
+  "checkedAt": "2026-08-27T14:19:06.050053Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Boston",
       "region": "long_haul",
       "price": 600,
-      "threshold": 662,
-      "baseline": 1104,
+      "threshold": 630,
+      "baseline": 1050,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-25T19:50:00+01:00",
@@ -31,6 +31,78 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2511BOS29111"
+    },
+    {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "region": "long_haul",
+      "price": 2126,
+      "threshold": 568,
+      "baseline": 947,
+      "deal": false,
+      "nights": 12,
+      "departure": "2026-08-28T06:00:00+02:00",
+      "return": "2026-09-12T00:40:00",
+      "dates": "Aug 28 - Sep 12",
+      "method": "hub-hack",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "LON",
+          232
+        ],
+        [
+          "OS",
+          "LON",
+          "LAX",
+          828
+        ],
+        [
+          "VS",
+          "LAX",
+          "FRA",
+          922
+        ],
+        [
+          "LW",
+          "FRA",
+          "BUD",
+          144
+        ]
+      ],
+      "deep_link": ""
+    },
+    {
+      "code": "KEF",
+      "city": "Reykjavik",
+      "region": "long_haul",
+      "price": 184,
+      "threshold": 193,
+      "baseline": 321,
+      "deal": true,
+      "nights": 7,
+      "departure": "2026-10-08T15:25:00+02:00",
+      "return": "2026-10-15T18:45:00Z",
+      "dates": "Oct 8 - Oct 15",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "KEF",
+          null
+        ],
+        [
+          "W6",
+          "KEF",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0810KEF15101"
     }
   ],
   "europe": [
@@ -38,9 +110,9 @@
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
-      "price": 69,
-      "threshold": 87,
-      "baseline": 145,
+      "price": 80,
+      "threshold": 90,
+      "baseline": 150,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:25:00+01:00",
@@ -69,8 +141,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 57,
-      "threshold": 59,
-      "baseline": 98,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 2,
       "departure": "2026-10-09T06:20:00+02:00",
@@ -99,8 +171,8 @@
       "city": "Dublin",
       "region": "europe",
       "price": 129,
-      "threshold": 176,
-      "baseline": 294,
+      "threshold": 182,
+      "baseline": 303,
       "deal": true,
       "nights": 2,
       "departure": "2026-10-13T22:30:00+02:00",
@@ -129,8 +201,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 48,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 65,
+      "baseline": 108,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-20T10:05:00+02:00",
@@ -155,34 +227,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD2010BER24101"
     },
     {
-      "code": "OPO",
-      "city": "Porto",
+      "code": "IST",
+      "city": "Istanbul",
       "region": "europe",
-      "price": 116,
-      "threshold": 122,
-      "baseline": 204,
+      "price": 88,
+      "threshold": 91,
+      "baseline": 152,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-11-12T08:25:00+01:00",
-      "return": "2026-11-15T19:55:00Z",
-      "dates": "Nov 12 - Nov 15",
+      "nights": 5,
+      "departure": "2026-10-05T20:25:00+02:00",
+      "return": "2026-10-10T09:25:00+03:00",
+      "dates": "Oct 5 - Oct 10",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W4",
+          "W6",
           "BUD",
-          "OPO",
+          "IST",
           null
         ],
         [
-          "W4",
-          "OPO",
+          "W6",
+          "IST",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211OPO15111"
+      "deep_link": "https://www.aviasales.com/search/BUD0510IST10101"
     }
   ]
 }
