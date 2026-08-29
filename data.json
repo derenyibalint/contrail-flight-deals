@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T01:46:44.754286Z",
+  "checkedAt": "2026-08-29T10:12:13.892637Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -31,36 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2511BOS29111"
-    },
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 608,
-      "threshold": 704,
-      "baseline": 1172,
-      "deal": true,
-      "nights": 13,
-      "departure": "2026-11-12T10:25:00+01:00",
-      "return": "2026-11-25T19:30:00-08:00",
-      "dates": "Nov 12 - Nov 25",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "SK",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "SK",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
     },
     {
       "code": "KEF",
@@ -129,8 +99,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 60,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-14T10:10:00+02:00",
@@ -189,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 46,
-      "threshold": 64,
-      "baseline": 107,
+      "threshold": 65,
+      "baseline": 109,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
@@ -219,8 +189,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 88,
-      "threshold": 90,
-      "baseline": 150,
+      "threshold": 88,
+      "baseline": 148,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-05T20:25:00+02:00",
