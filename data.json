@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T16:45:54.742369Z",
+  "checkedAt": "2026-08-30T21:13:19.817294Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Boston",
       "region": "long_haul",
       "price": 600,
-      "threshold": 658,
-      "baseline": 1097,
+      "threshold": 630,
+      "baseline": 1050,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-25T10:55:00+01:00",
@@ -61,48 +61,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
-    },
-    {
-      "code": "SFO",
-      "city": "San Francisco",
-      "region": "long_haul",
-      "price": 2388,
-      "threshold": 560,
-      "baseline": null,
-      "deal": false,
-      "nights": 13,
-      "departure": "2026-08-30T20:35:00+02:00",
-      "return": "2026-09-15T19:50:00",
-      "dates": "Aug 30 - Sep 15",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "TK",
-          "BUD",
-          "IST",
-          446
-        ],
-        [
-          "KL",
-          "IST",
-          "SFO",
-          1023
-        ],
-        [
-          "B6",
-          "SFO",
-          "LON",
-          861
-        ],
-        [
-          "FR",
-          "LON",
-          "BUD",
-          58
-        ]
-      ],
-      "deep_link": ""
     },
     {
       "code": "KEF",
@@ -172,7 +130,7 @@
       "region": "europe",
       "price": 62,
       "threshold": 70,
-      "baseline": 118,
+      "baseline": 117,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T05:50:00+02:00",
@@ -201,8 +159,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 60,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 63,
+      "baseline": 105,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-14T10:10:00+02:00",
@@ -225,36 +183,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1409STO16091"
-    },
-    {
-      "code": "DUB",
-      "city": "Dublin",
-      "region": "europe",
-      "price": 134,
-      "threshold": 181,
-      "baseline": 302,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-10-07T06:00:00+02:00",
-      "return": "2026-10-12T10:30:00+01:00",
-      "dates": "Oct 7 - Oct 12",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "DUB",
-          null
-        ],
-        [
-          "W6",
-          "DUB",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0710DUB12101"
     },
     {
       "code": "BER",
@@ -292,7 +220,7 @@
       "region": "europe",
       "price": 85,
       "threshold": 91,
-      "baseline": 151,
+      "baseline": 152,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-05T20:25:00+02:00",
