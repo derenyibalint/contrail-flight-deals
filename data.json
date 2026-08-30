@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-30T21:13:19.817294Z",
+  "checkedAt": "2026-08-30T23:35:33.904937Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 47,
-      "threshold": 50,
-      "baseline": 83,
+      "threshold": 52,
+      "baseline": 86,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-22T18:40:00+02:00",
