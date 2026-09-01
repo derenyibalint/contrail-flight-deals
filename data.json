@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T08:45:10.606398Z",
+  "checkedAt": "2026-09-01T14:11:20.922810Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -36,31 +36,31 @@
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
-      "price": 608,
+      "price": 605,
       "threshold": 633,
       "baseline": 1056,
       "deal": true,
-      "nights": 13,
-      "departure": "2026-11-12T10:25:00+01:00",
-      "return": "2026-11-25T19:30:00-08:00",
-      "dates": "Nov 12 - Nov 25",
+      "nights": 7,
+      "departure": "2026-10-05T14:15:00+02:00",
+      "return": "2026-10-12T16:00:00-07:00",
+      "dates": "Oct 5 - Oct 12",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "SK",
+          "BA",
           "BUD",
           "LAX",
           null
         ],
         [
-          "SK",
+          "BA",
           "LAX",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
+      "deep_link": "https://www.aviasales.com/search/BUD0510LAX12101"
     }
   ],
   "europe": [
@@ -70,7 +70,7 @@
       "region": "europe",
       "price": 45,
       "threshold": 47,
-      "baseline": 79,
+      "baseline": 78,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-15T06:50:00+02:00",
@@ -99,7 +99,7 @@
       "city": "Athens",
       "region": "europe",
       "price": 62,
-      "threshold": 67,
+      "threshold": 68,
       "baseline": 112,
       "deal": true,
       "nights": 3,
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 58,
-      "baseline": 97,
+      "threshold": 62,
+      "baseline": 104,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -159,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 46,
-      "threshold": 57,
-      "baseline": 95,
+      "threshold": 59,
+      "baseline": 98,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
