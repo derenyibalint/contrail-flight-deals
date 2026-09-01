@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T00:39:52.380257Z",
+  "checkedAt": "2026-09-01T08:45:10.606398Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -37,8 +37,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 608,
-      "threshold": 613,
-      "baseline": 1022,
+      "threshold": 633,
+      "baseline": 1056,
       "deal": true,
       "nights": 13,
       "departure": "2026-11-12T10:25:00+01:00",
@@ -68,14 +68,14 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 47,
-      "threshold": 49,
-      "baseline": 82,
+      "price": 45,
+      "threshold": 47,
+      "baseline": 79,
       "deal": true,
       "nights": 2,
-      "departure": "2026-09-22T18:40:00+02:00",
-      "return": "2026-09-24T08:05:00+02:00",
-      "dates": "Sep 22 - Sep 24",
+      "departure": "2026-09-15T06:50:00+02:00",
+      "return": "2026-09-17T08:05:00+02:00",
+      "dates": "Sep 15 - Sep 17",
       "method": "native",
       "seats": null,
       "legs": [
@@ -92,7 +92,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2209ROM24091"
+      "deep_link": "https://www.aviasales.com/search/BUD1509ROM17091"
     },
     {
       "code": "ATH",
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 57,
-      "baseline": 95,
+      "threshold": 58,
+      "baseline": 97,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -160,7 +160,7 @@
       "region": "europe",
       "price": 46,
       "threshold": 57,
-      "baseline": 96,
+      "baseline": 95,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
