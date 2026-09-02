@@ -1,37 +1,7 @@
 {
-  "checkedAt": "2026-09-02T16:40:20.257840Z",
+  "checkedAt": "2026-09-02T21:07:34.225298Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "BOS",
-      "city": "Boston",
-      "region": "long_haul",
-      "price": 610,
-      "threshold": 626,
-      "baseline": 1043,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-11-25T10:55:00+01:00",
-      "return": "2026-11-29T17:15:00-05:00",
-      "dates": "Nov 25 - Nov 29",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "EI",
-          "BUD",
-          "BOS",
-          null
-        ],
-        [
-          "EI",
-          "BOS",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2511BOS29111"
-    },
     {
       "code": "LAX",
       "city": "Los Angeles",
@@ -100,7 +70,7 @@
       "region": "europe",
       "price": 63,
       "threshold": 64,
-      "baseline": 108,
+      "baseline": 107,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
@@ -129,8 +99,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 61,
-      "baseline": 101,
+      "threshold": 64,
+      "baseline": 107,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -155,42 +125,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD1009CPH15091"
     },
     {
-      "code": "DUB",
-      "city": "Dublin",
-      "region": "europe",
-      "price": 137,
-      "threshold": 167,
-      "baseline": 279,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-10-18T19:40:00+02:00",
-      "return": "2026-10-22T21:25:00+01:00",
-      "dates": "Oct 18 - Oct 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "DUB",
-          null
-        ],
-        [
-          "W6",
-          "DUB",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1810DUB22101"
-    },
-    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 46,
-      "threshold": 58,
-      "baseline": 96,
+      "threshold": 56,
+      "baseline": 93,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
