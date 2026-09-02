@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T04:43:44.083958Z",
+  "checkedAt": "2026-09-02T11:27:18.976345Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 45,
-      "threshold": 50,
-      "baseline": 83,
+      "threshold": 48,
+      "baseline": 80,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-15T06:50:00+02:00",
@@ -98,25 +98,25 @@
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
-      "price": 62,
-      "threshold": 64,
-      "baseline": 107,
+      "price": 63,
+      "threshold": 67,
+      "baseline": 112,
       "deal": true,
       "nights": 3,
-      "departure": "2026-10-19T05:50:00+02:00",
+      "departure": "2026-10-19T14:00:00+02:00",
       "return": "2026-10-22T09:35:00+03:00",
       "dates": "Oct 19 - Oct 22",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "ATH",
           null
         ],
         [
-          "W6",
+          "FR",
           "ATH",
           "BUD",
           null
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 62,
-      "baseline": 102,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
