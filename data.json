@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T23:22:05.679586Z",
+  "checkedAt": "2026-09-02T04:43:44.083958Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 59,
-      "baseline": 99,
+      "threshold": 62,
+      "baseline": 102,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
