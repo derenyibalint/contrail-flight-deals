@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T11:27:18.976345Z",
+  "checkedAt": "2026-09-02T16:40:20.257840Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -37,8 +37,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 645,
-      "baseline": 1075,
+      "threshold": 650,
+      "baseline": 1083,
       "deal": true,
       "nights": 7,
       "departure": "2026-10-05T14:15:00+02:00",
@@ -99,8 +99,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 64,
+      "baseline": 108,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 64,
-      "baseline": 106,
+      "threshold": 61,
+      "baseline": 101,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -153,6 +153,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1009CPH15091"
+    },
+    {
+      "code": "DUB",
+      "city": "Dublin",
+      "region": "europe",
+      "price": 137,
+      "threshold": 167,
+      "baseline": 279,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-10-18T19:40:00+02:00",
+      "return": "2026-10-22T21:25:00+01:00",
+      "dates": "Oct 18 - Oct 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "DUB",
+          null
+        ],
+        [
+          "W6",
+          "DUB",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1810DUB22101"
     },
     {
       "code": "BER",
