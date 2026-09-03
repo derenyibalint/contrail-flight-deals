@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T16:31:34.532987Z",
+  "checkedAt": "2026-09-03T21:07:27.081357Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -47,42 +47,12 @@
   ],
   "europe": [
     {
-      "code": "ROM",
-      "city": "Rome",
-      "region": "europe",
-      "price": 45,
-      "threshold": 51,
-      "baseline": 85,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-09-15T06:50:00+02:00",
-      "return": "2026-09-17T08:05:00+02:00",
-      "dates": "Sep 15 - Sep 17",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "ROM",
-          null
-        ],
-        [
-          "FR",
-          "ROM",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1509ROM17091"
-    },
-    {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
       "price": 116,
-      "threshold": 118,
-      "baseline": 196,
+      "threshold": 116,
+      "baseline": 194,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-29T11:45:00+01:00",
@@ -111,8 +81,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 68,
-      "baseline": 114,
+      "threshold": 70,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
@@ -171,8 +141,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 46,
-      "threshold": 60,
-      "baseline": 100,
+      "threshold": 59,
+      "baseline": 99,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
