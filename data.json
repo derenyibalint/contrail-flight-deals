@@ -1,36 +1,48 @@
 {
-  "checkedAt": "2026-09-03T04:39:45.793689Z",
+  "checkedAt": "2026-09-03T11:23:52.898263Z",
   "monitoringCount": 28,
   "longHaul": [
     {
-      "code": "LAX",
-      "city": "Los Angeles",
+      "code": "SEA",
+      "city": "Seattle",
       "region": "long_haul",
-      "price": 605,
-      "threshold": 653,
-      "baseline": 1088,
-      "deal": true,
-      "nights": 7,
-      "departure": "2026-10-05T14:15:00+02:00",
-      "return": "2026-10-12T16:00:00-07:00",
-      "dates": "Oct 5 - Oct 12",
-      "method": "native",
+      "price": 1475,
+      "threshold": 560,
+      "baseline": null,
+      "deal": false,
+      "nights": 3,
+      "departure": "2026-09-23T10:05:00+02:00",
+      "return": "2026-09-29T02:20:00",
+      "dates": "Sep 23 - Sep 29",
+      "method": "hub-hack",
       "seats": null,
       "legs": [
         [
-          "BA",
+          "FR",
           "BUD",
-          "LAX",
-          null
+          "LON",
+          54
         ],
         [
-          "BA",
-          "LAX",
+          "FI",
+          "LON",
+          "SEA",
+          427
+        ],
+        [
+          "QR",
+          "SEA",
+          "IST",
+          905
+        ],
+        [
+          "W6",
+          "IST",
           "BUD",
-          null
+          89
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0510LAX12101"
+      "deep_link": ""
     }
   ],
   "europe": [
@@ -39,8 +51,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 45,
-      "threshold": 47,
-      "baseline": 78,
+      "threshold": 49,
+      "baseline": 82,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-15T06:50:00+02:00",
@@ -65,12 +77,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD1509ROM17091"
     },
     {
+      "code": "LIS",
+      "city": "Lisbon",
+      "region": "europe",
+      "price": 116,
+      "threshold": 118,
+      "baseline": 197,
+      "deal": true,
+      "nights": 5,
+      "departure": "2026-10-29T11:45:00+01:00",
+      "return": "2026-11-03T17:10:00Z",
+      "dates": "Oct 29 - Nov 3",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "LIS",
+          null
+        ],
+        [
+          "FR",
+          "LIS",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2910LIS03111"
+    },
+    {
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 66,
-      "baseline": 110,
+      "threshold": 68,
+      "baseline": 114,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
