@@ -1,8 +1,38 @@
 {
-  "checkedAt": "2026-09-04T20:49:43.426329Z",
+  "checkedAt": "2026-09-04T23:04:41.411419Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
+    {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 78,
+      "threshold": 78,
+      "baseline": 130,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-20T14:10:00+01:00",
+      "return": "2026-11-22T17:35:00+01:00",
+      "dates": "Nov 20 - Nov 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "U2",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "U2",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2011PAR22111"
+    },
     {
       "code": "LIS",
       "city": "Lisbon",
@@ -38,8 +68,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 67,
-      "baseline": 111,
+      "threshold": 66,
+      "baseline": 110,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
@@ -98,8 +128,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 49,
-      "threshold": 58,
-      "baseline": 97,
+      "threshold": 57,
+      "baseline": 96,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
@@ -127,7 +157,7 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 57,
+      "price": 58,
       "threshold": 58,
       "baseline": 96,
       "deal": true,
