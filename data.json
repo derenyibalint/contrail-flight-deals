@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-04T11:26:55.583198Z",
+  "checkedAt": "2026-09-04T16:27:33.686503Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -81,8 +81,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 70,
-      "baseline": 117,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-19T14:00:00+02:00",
@@ -111,8 +111,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 55,
-      "threshold": 62,
-      "baseline": 104,
+      "threshold": 63,
+      "baseline": 105,
       "deal": true,
       "nights": 5,
       "departure": "2026-09-10T17:55:00+02:00",
@@ -135,36 +135,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1009CPH15091"
-    },
-    {
-      "code": "BER",
-      "city": "Berlin",
-      "region": "europe",
-      "price": 46,
-      "threshold": 58,
-      "baseline": 98,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-13T19:50:00+01:00",
-      "return": "2026-11-16T21:55:00+01:00",
-      "dates": "Nov 13 - Nov 16",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "BER",
-          null
-        ],
-        [
-          "W6",
-          "BER",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1311BER16111"
     }
   ]
 }
