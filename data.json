@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-05T10:43:31.328208Z",
+  "checkedAt": "2026-09-05T15:19:35.691367Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -32,6 +32,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0610LON11101"
+    },
+    {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 78,
+      "threshold": 78,
+      "baseline": 130,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-20T14:10:00+01:00",
+      "return": "2026-11-22T17:35:00+01:00",
+      "dates": "Nov 20 - Nov 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "U2",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "U2",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2011PAR22111"
     },
     {
       "code": "LIS",
@@ -67,61 +97,31 @@
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
-      "price": 63,
-      "threshold": 68,
-      "baseline": 112,
+      "price": 66,
+      "threshold": 67,
+      "baseline": 111,
       "deal": true,
       "nights": 3,
-      "departure": "2026-10-19T14:00:00+02:00",
-      "return": "2026-10-22T09:35:00+03:00",
-      "dates": "Oct 19 - Oct 22",
+      "departure": "2026-11-04T06:15:00+01:00",
+      "return": "2026-11-07T21:45:00+02:00",
+      "dates": "Nov 4 - Nov 7",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "ATH",
           null
         ],
         [
-          "FR",
+          "W6",
           "ATH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1910ATH22101"
-    },
-    {
-      "code": "CPH",
-      "city": "Copenhagen",
-      "region": "europe",
-      "price": 55,
-      "threshold": 66,
-      "baseline": 110,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-09-10T17:55:00+02:00",
-      "return": "2026-09-15T15:00:00+02:00",
-      "dates": "Sep 10 - Sep 15",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "CPH",
-          null
-        ],
-        [
-          "FR",
-          "CPH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1009CPH15091"
+      "deep_link": "https://www.aviasales.com/search/BUD0411ATH07111"
     },
     {
       "code": "STO",
@@ -158,8 +158,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 58,
-      "threshold": 59,
-      "baseline": 99,
+      "threshold": 58,
+      "baseline": 97,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:50:00+01:00",
