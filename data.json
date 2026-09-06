@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-06T20:29:33.851865Z",
+  "checkedAt": "2026-09-06T22:55:23.593062Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 78,
-      "threshold": 79,
-      "baseline": 132,
+      "threshold": 78,
+      "baseline": 130,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-20T14:10:00+01:00",
@@ -130,7 +130,7 @@
       "region": "europe",
       "price": 49,
       "threshold": 55,
-      "baseline": 91,
+      "baseline": 92,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-14T18:40:00+02:00",
