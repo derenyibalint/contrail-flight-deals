@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-06T22:55:23.593062Z",
+  "checkedAt": "2026-09-07T04:52:15.443519Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 605,
-      "threshold": 637,
-      "baseline": 1062,
+      "threshold": 632,
+      "baseline": 1054,
       "deal": true,
       "nights": 7,
       "departure": "2026-10-05T14:15:00+02:00",
@@ -31,6 +31,48 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0510LAX12101"
+    },
+    {
+      "code": "TYO",
+      "city": "Tokyo",
+      "region": "long_haul",
+      "price": 1562,
+      "threshold": 580,
+      "baseline": 968,
+      "deal": false,
+      "nights": 8,
+      "departure": "2026-12-08T18:15:00+01:00",
+      "return": "2026-12-20T09:15:00",
+      "dates": "Dec 8 - Dec 20",
+      "method": "hub-hack",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          95
+        ],
+        [
+          "CA",
+          "IST",
+          "TYO",
+          604
+        ],
+        [
+          "CZ",
+          "TYO",
+          "FRA",
+          685
+        ],
+        [
+          "LH",
+          "FRA",
+          "BUD",
+          178
+        ]
+      ],
+      "deep_link": ""
     }
   ],
   "europe": [
@@ -39,8 +81,8 @@
       "city": "London",
       "region": "europe",
       "price": 56,
-      "threshold": 57,
-      "baseline": 95,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-06T05:45:00+02:00",
@@ -129,8 +171,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 55,
-      "baseline": 92,
+      "threshold": 54,
+      "baseline": 90,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-14T18:40:00+02:00",
