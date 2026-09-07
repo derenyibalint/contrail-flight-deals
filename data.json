@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-07T12:44:39.738451Z",
+  "checkedAt": "2026-09-07T19:13:42.979252Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -31,48 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0510LAX12101"
-    },
-    {
-      "code": "TYO",
-      "city": "Tokyo",
-      "region": "long_haul",
-      "price": 1562,
-      "threshold": 577,
-      "baseline": 962,
-      "deal": false,
-      "nights": 8,
-      "departure": "2026-12-08T18:15:00+01:00",
-      "return": "2026-12-20T09:15:00",
-      "dates": "Dec 8 - Dec 20",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          95
-        ],
-        [
-          "CA",
-          "IST",
-          "TYO",
-          604
-        ],
-        [
-          "CZ",
-          "TYO",
-          "FRA",
-          685
-        ],
-        [
-          "LH",
-          "FRA",
-          "BUD",
-          178
-        ]
-      ],
-      "deep_link": ""
     }
   ],
   "europe": [
@@ -81,8 +39,8 @@
       "city": "London",
       "region": "europe",
       "price": 56,
-      "threshold": 62,
-      "baseline": 103,
+      "threshold": 59,
+      "baseline": 98,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-06T05:45:00+02:00",
@@ -107,42 +65,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD0610LON11101"
     },
     {
-      "code": "PAR",
-      "city": "Paris",
-      "region": "europe",
-      "price": 78,
-      "threshold": 80,
-      "baseline": 133,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-11-20T14:10:00+01:00",
-      "return": "2026-11-22T17:35:00+01:00",
-      "dates": "Nov 20 - Nov 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "U2",
-          "BUD",
-          "PAR",
-          null
-        ],
-        [
-          "U2",
-          "PAR",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2011PAR22111"
-    },
-    {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
       "price": 76,
-      "threshold": 81,
-      "baseline": 134,
+      "threshold": 83,
+      "baseline": 139,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-08T05:45:00+01:00",
@@ -170,14 +98,14 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 49,
-      "threshold": 56,
+      "price": 45,
+      "threshold": 57,
       "baseline": 94,
       "deal": true,
-      "nights": 6,
-      "departure": "2026-10-14T18:40:00+02:00",
-      "return": "2026-10-20T08:55:00+02:00",
-      "dates": "Oct 14 - Oct 20",
+      "nights": 2,
+      "departure": "2026-09-15T06:50:00+02:00",
+      "return": "2026-09-17T08:05:00+02:00",
+      "dates": "Sep 15 - Sep 17",
       "method": "native",
       "seats": null,
       "legs": [
@@ -194,15 +122,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1410ROM20101"
+      "deep_link": "https://www.aviasales.com/search/BUD1509ROM17091"
     },
     {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
       "price": 101,
-      "threshold": 121,
-      "baseline": 202,
+      "threshold": 122,
+      "baseline": 203,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -260,31 +188,31 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 56,
-      "threshold": 59,
-      "baseline": 98,
+      "price": 55,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 2,
-      "departure": "2026-11-06T05:45:00+01:00",
-      "return": "2026-11-08T12:50:00+01:00",
-      "dates": "Nov 6 - Nov 8",
+      "departure": "2026-11-14T19:50:00+01:00",
+      "return": "2026-11-16T21:55:00+01:00",
+      "dates": "Nov 14 - Nov 16",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "BER",
           null
         ],
         [
-          "FR",
+          "W6",
           "BER",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0611BER08111"
+      "deep_link": "https://www.aviasales.com/search/BUD1411BER16111"
     }
   ]
 }
