@@ -1,38 +1,7 @@
 {
-  "checkedAt": "2026-09-08T04:48:08.665978Z",
+  "checkedAt": "2026-09-08T11:27:03.525689Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 605,
-      "threshold": 632,
-      "baseline": 1054,
-      "deal": true,
-      "nights": 7,
-      "departure": "2026-10-05T14:15:00+02:00",
-      "return": "2026-10-12T16:00:00-07:00",
-      "dates": "Oct 5 - Oct 12",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "BA",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "BA",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0510LAX12101"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "LON",
@@ -69,8 +38,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 80,
-      "threshold": 80,
-      "baseline": 133,
+      "threshold": 81,
+      "baseline": 135,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-12T20:00:00+01:00",
@@ -99,8 +68,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 76,
-      "threshold": 84,
-      "baseline": 140,
+      "threshold": 83,
+      "baseline": 138,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-08T05:45:00+01:00",
@@ -128,14 +97,14 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 45,
+      "price": 49,
       "threshold": 58,
       "baseline": 96,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-09-15T06:50:00+02:00",
-      "return": "2026-09-17T08:05:00+02:00",
-      "dates": "Sep 15 - Sep 17",
+      "nights": 6,
+      "departure": "2026-10-14T18:40:00+02:00",
+      "return": "2026-10-20T08:55:00+02:00",
+      "dates": "Oct 14 - Oct 20",
       "method": "native",
       "seats": null,
       "legs": [
@@ -152,7 +121,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1509ROM17091"
+      "deep_link": "https://www.aviasales.com/search/BUD1410ROM20101"
     },
     {
       "code": "LIS",
@@ -185,36 +154,6 @@
       "deep_link": "https://www.aviasales.com/search/BUD0211LIS07111"
     },
     {
-      "code": "STO",
-      "city": "Stockholm",
-      "region": "europe",
-      "price": 49,
-      "threshold": 57,
-      "baseline": 95,
-      "deal": true,
-      "nights": 6,
-      "departure": "2026-09-23T09:25:00+02:00",
-      "return": "2026-09-29T20:00:00+02:00",
-      "dates": "Sep 23 - Sep 29",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "STO",
-          null
-        ],
-        [
-          "FR",
-          "STO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2309STO29091"
-    },
-    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
@@ -243,6 +182,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1411BER16111"
+    },
+    {
+      "code": "BGO",
+      "city": "Bergen",
+      "region": "europe",
+      "price": 121,
+      "threshold": 163,
+      "baseline": 271,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-09-18T11:20:00+02:00",
+      "return": "2026-09-20T08:40:00+02:00",
+      "dates": "Sep 18 - Sep 20",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BGO",
+          null
+        ],
+        [
+          "W6",
+          "BGO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1809BGO20091"
     }
   ]
 }
