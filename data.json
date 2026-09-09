@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T20:59:49.186521Z",
+  "checkedAt": "2026-09-09T23:19:20.656009Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -37,31 +37,31 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 80,
-      "threshold": 82,
-      "baseline": 136,
+      "price": 84,
+      "threshold": 84,
+      "baseline": 140,
       "deal": true,
       "nights": 3,
-      "departure": "2026-11-12T20:00:00+01:00",
-      "return": "2026-11-15T17:35:00+01:00",
-      "dates": "Nov 12 - Nov 15",
+      "departure": "2026-10-06T16:35:00+02:00",
+      "return": "2026-10-09T08:10:00+02:00",
+      "dates": "Oct 6 - Oct 9",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "U2",
+          "FR",
           "BUD",
           "PAR",
           null
         ],
         [
-          "U2",
+          "FR",
           "PAR",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211PAR15111"
+      "deep_link": "https://www.aviasales.com/search/BUD0610PAR09101"
     },
     {
       "code": "MAD",
@@ -129,7 +129,7 @@
       "region": "europe",
       "price": 101,
       "threshold": 127,
-      "baseline": 211,
+      "baseline": 212,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -188,8 +188,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 45,
-      "threshold": 63,
-      "baseline": 106,
+      "threshold": 74,
+      "baseline": 123,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
