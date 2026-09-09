@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T04:50:44.277140Z",
+  "checkedAt": "2026-09-09T11:32:41.797928Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "London",
       "region": "europe",
       "price": 56,
-      "threshold": 68,
-      "baseline": 113,
+      "threshold": 70,
+      "baseline": 116,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-06T05:45:00+02:00",
@@ -32,6 +32,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0610LON11101"
+    },
+    {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 80,
+      "threshold": 81,
+      "baseline": 135,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-11-12T20:00:00+01:00",
+      "return": "2026-11-15T17:35:00+01:00",
+      "dates": "Nov 12 - Nov 15",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "U2",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "U2",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1211PAR15111"
     },
     {
       "code": "MAD",
@@ -98,8 +128,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 101,
-      "threshold": 123,
-      "baseline": 206,
+      "threshold": 125,
+      "baseline": 208,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -158,8 +188,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 45,
-      "threshold": 55,
-      "baseline": 92,
+      "threshold": 54,
+      "baseline": 90,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
@@ -188,8 +218,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 85,
-      "threshold": 107,
-      "baseline": 179,
+      "threshold": 105,
+      "baseline": 175,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-30T18:20:00+01:00",
@@ -218,8 +248,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 62,
-      "baseline": 103,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:45:00+01:00",
