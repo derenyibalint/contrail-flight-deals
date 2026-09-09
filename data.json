@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-08T23:27:13.146253Z",
+  "checkedAt": "2026-09-09T04:50:44.277140Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -32,36 +32,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0610LON11101"
-    },
-    {
-      "code": "PAR",
-      "city": "Paris",
-      "region": "europe",
-      "price": 80,
-      "threshold": 80,
-      "baseline": 133,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-12T20:00:00+01:00",
-      "return": "2026-11-15T17:35:00+01:00",
-      "dates": "Nov 12 - Nov 15",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "U2",
-          "BUD",
-          "PAR",
-          null
-        ],
-        [
-          "U2",
-          "PAR",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211PAR15111"
     },
     {
       "code": "MAD",
@@ -129,7 +99,7 @@
       "region": "europe",
       "price": 101,
       "threshold": 123,
-      "baseline": 204,
+      "baseline": 206,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -214,34 +184,64 @@
       "deep_link": "https://www.aviasales.com/search/BUD2309STO29091"
     },
     {
-      "code": "BER",
-      "city": "Berlin",
+      "code": "OSL",
+      "city": "Oslo",
       "region": "europe",
-      "price": 55,
-      "threshold": 62,
-      "baseline": 103,
+      "price": 85,
+      "threshold": 107,
+      "baseline": 179,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-11-14T19:50:00+01:00",
-      "return": "2026-11-16T21:55:00+01:00",
-      "dates": "Nov 14 - Nov 16",
+      "nights": 5,
+      "departure": "2026-10-30T18:20:00+01:00",
+      "return": "2026-11-04T20:10:00+01:00",
+      "dates": "Oct 30 - Nov 4",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "W6",
           "BUD",
-          "BER",
+          "OSL",
           null
         ],
         [
           "W6",
+          "OSL",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD3010OSL04111"
+    },
+    {
+      "code": "BER",
+      "city": "Berlin",
+      "region": "europe",
+      "price": 56,
+      "threshold": 62,
+      "baseline": 103,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-06T05:45:00+01:00",
+      "return": "2026-11-08T12:50:00+01:00",
+      "dates": "Nov 6 - Nov 8",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "BER",
+          null
+        ],
+        [
+          "FR",
           "BER",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1411BER16111"
+      "deep_link": "https://www.aviasales.com/search/BUD0611BER08111"
     },
     {
       "code": "BGO",
