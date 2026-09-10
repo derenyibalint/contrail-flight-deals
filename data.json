@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-10T20:56:35.720075Z",
+  "checkedAt": "2026-09-10T23:13:19.333840Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -38,7 +38,7 @@
       "city": "Paris",
       "region": "europe",
       "price": 84,
-      "threshold": 88,
+      "threshold": 87,
       "baseline": 146,
       "deal": true,
       "nights": 3,
@@ -97,31 +97,31 @@
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
-      "price": 101,
+      "price": 105,
       "threshold": 127,
       "baseline": 212,
       "deal": true,
-      "nights": 5,
-      "departure": "2026-11-02T11:45:00+01:00",
-      "return": "2026-11-07T15:00:00Z",
-      "dates": "Nov 2 - Nov 7",
+      "nights": 4,
+      "departure": "2026-11-01T16:00:00+01:00",
+      "return": "2026-11-05T19:40:00Z",
+      "dates": "Nov 1 - Nov 5",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "LIS",
           null
         ],
         [
-          "FR",
+          "W6",
           "LIS",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0211LIS07111"
+      "deep_link": "https://www.aviasales.com/search/BUD0111LIS05111"
     },
     {
       "code": "STO",
@@ -158,8 +158,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 85,
-      "threshold": 109,
-      "baseline": 181,
+      "threshold": 111,
+      "baseline": 185,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-30T18:20:00+01:00",
@@ -188,8 +188,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 65,
-      "baseline": 109,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:45:00+01:00",
