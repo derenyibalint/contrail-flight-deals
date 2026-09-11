@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-11T21:02:14.648628Z",
+  "checkedAt": "2026-09-11T23:19:43.102815Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "New York",
       "region": "long_haul",
       "price": 507,
-      "threshold": 512,
-      "baseline": 854,
+      "threshold": 532,
+      "baseline": 888,
       "deal": true,
       "nights": 7,
       "departure": "2026-12-01T12:55:00+01:00",
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 84,
-      "threshold": 91,
-      "baseline": 152,
+      "threshold": 93,
+      "baseline": 155,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-06T16:35:00+02:00",
@@ -93,36 +93,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1410ROM20101"
-    },
-    {
-      "code": "LIS",
-      "city": "Lisbon",
-      "region": "europe",
-      "price": 106,
-      "threshold": 126,
-      "baseline": 210,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-16T11:45:00+01:00",
-      "return": "2026-11-19T19:40:00Z",
-      "dates": "Nov 16 - Nov 19",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "LIS",
-          null
-        ],
-        [
-          "FR",
-          "LIS",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1611LIS19111"
     },
     {
       "code": "CPH",
