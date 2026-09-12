@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T04:42:45.775685Z",
+  "checkedAt": "2026-09-12T10:55:32.190983Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 84,
-      "threshold": 93,
-      "baseline": 155,
+      "threshold": 95,
+      "baseline": 158,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-06T16:35:00+02:00",
@@ -69,7 +69,7 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 65,
+      "threshold": 64,
       "baseline": 108,
       "deal": true,
       "nights": 6,
@@ -98,14 +98,14 @@
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
-      "price": 127,
+      "price": 105,
       "threshold": 128,
-      "baseline": 214,
+      "baseline": 213,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-10-20T08:40:00+02:00",
-      "return": "2026-10-23T15:10:00+01:00",
-      "dates": "Oct 20 - Oct 23",
+      "nights": 2,
+      "departure": "2026-11-02T11:45:00+01:00",
+      "return": "2026-11-04T19:40:00Z",
+      "dates": "Nov 2 - Nov 4",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,15 +122,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2010LIS23101"
+      "deep_link": "https://www.aviasales.com/search/BUD0211LIS04111"
     },
     {
       "code": "CPH",
       "city": "Copenhagen",
       "region": "europe",
       "price": 70,
-      "threshold": 88,
-      "baseline": 148,
+      "threshold": 92,
+      "baseline": 154,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-26T06:30:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 85,
-      "threshold": 126,
-      "baseline": 210,
+      "threshold": 123,
+      "baseline": 205,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-30T18:20:00+01:00",
