@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-12T15:36:43.108675Z",
+  "checkedAt": "2026-09-12T20:38:33.587641Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 84,
-      "threshold": 95,
-      "baseline": 158,
+      "threshold": 98,
+      "baseline": 164,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-06T16:35:00+02:00",
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 66,
-      "baseline": 110,
+      "threshold": 67,
+      "baseline": 112,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-14T18:40:00+02:00",
@@ -99,8 +99,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 105,
-      "threshold": 130,
-      "baseline": 216,
+      "threshold": 132,
+      "baseline": 220,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -129,8 +129,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 66,
-      "threshold": 93,
-      "baseline": 154,
+      "threshold": 91,
+      "baseline": 151,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-12T08:15:00+01:00",
@@ -159,8 +159,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 82,
+      "baseline": 136,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
@@ -189,8 +189,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 85,
-      "threshold": 124,
-      "baseline": 207,
+      "threshold": 119,
+      "baseline": 199,
       "deal": true,
       "nights": 5,
       "departure": "2026-10-30T18:20:00+01:00",
@@ -219,8 +219,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 64,
-      "baseline": 106,
+      "threshold": 69,
+      "baseline": 115,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:45:00+01:00",
@@ -243,36 +243,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0611BER08111"
-    },
-    {
-      "code": "OPO",
-      "city": "Porto",
-      "region": "europe",
-      "price": 136,
-      "threshold": 138,
-      "baseline": 230,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-10-21T16:20:00+02:00",
-      "return": "2026-10-26T07:00:00Z",
-      "dates": "Oct 21 - Oct 26",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "OPO",
-          null
-        ],
-        [
-          "FR",
-          "OPO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2110OPO26101"
     }
   ]
 }
