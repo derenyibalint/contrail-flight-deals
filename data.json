@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-09-13T20:55:07.876133Z",
+  "checkedAt": "2026-09-13T23:12:44.011392Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "NYC",
       "city": "New York",
       "region": "long_haul",
-      "price": 507,
+      "price": 534,
       "threshold": 554,
       "baseline": 922,
       "deal": true,
-      "nights": 7,
-      "departure": "2026-12-01T12:55:00+01:00",
+      "nights": 9,
+      "departure": "2026-11-29T20:25:00+01:00",
       "return": "2026-12-08T22:35:00-05:00",
-      "dates": "Dec 1 - Dec 8",
+      "dates": "Nov 29 - Dec 8",
       "method": "native",
       "seats": null,
       "legs": [
@@ -30,7 +30,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0112NYC08121"
+      "deep_link": "https://www.aviasales.com/search/BUD2911NYC08121"
     }
   ],
   "europe": [
@@ -69,8 +69,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 90,
-      "baseline": 150,
+      "threshold": 91,
+      "baseline": 151,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-02T06:10:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 54,
-      "threshold": 62,
-      "baseline": 103,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T17:20:00+01:00",
@@ -159,8 +159,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 73,
-      "baseline": 122,
+      "threshold": 74,
+      "baseline": 123,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-08T06:15:00+01:00",
@@ -279,8 +279,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 69,
-      "baseline": 115,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-06T05:45:00+01:00",
