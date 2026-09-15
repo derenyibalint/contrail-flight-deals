@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-15T17:06:01.078455Z",
+  "checkedAt": "2026-09-15T21:27:51.645577Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 89,
-      "baseline": 148,
+      "threshold": 87,
+      "baseline": 146,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-02T06:10:00+01:00",
@@ -38,8 +38,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 55,
-      "threshold": 70,
-      "baseline": 117,
+      "threshold": 68,
+      "baseline": 113,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-18T06:05:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 105,
-      "threshold": 132,
-      "baseline": 220,
+      "threshold": 131,
+      "baseline": 219,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -128,8 +128,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 66,
-      "threshold": 84,
-      "baseline": 140,
+      "threshold": 86,
+      "baseline": 143,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-12T08:15:00+01:00",
@@ -158,8 +158,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 76,
-      "baseline": 126,
+      "threshold": 75,
+      "baseline": 125,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
@@ -182,36 +182,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2309STO29091"
-    },
-    {
-      "code": "OSL",
-      "city": "Oslo",
-      "region": "europe",
-      "price": 93,
-      "threshold": 103,
-      "baseline": 171,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-10-30T18:20:00+01:00",
-      "return": "2026-11-02T20:10:00+01:00",
-      "dates": "Oct 30 - Nov 2",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "OSL",
-          null
-        ],
-        [
-          "W6",
-          "OSL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD3010OSL02111"
     },
     {
       "code": "BER",
@@ -249,7 +219,7 @@
       "region": "europe",
       "price": 89,
       "threshold": 92,
-      "baseline": 152,
+      "baseline": 154,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-21T20:15:00+01:00",
