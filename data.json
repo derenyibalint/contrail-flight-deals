@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-14T23:53:28.884581Z",
+  "checkedAt": "2026-09-15T05:01:04.768663Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -68,7 +68,7 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 105,
-      "threshold": 129,
+      "threshold": 128,
       "baseline": 214,
       "deal": true,
       "nights": 2,
@@ -219,7 +219,7 @@
       "region": "europe",
       "price": 58,
       "threshold": 69,
-      "baseline": 114,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-27T19:50:00+01:00",
