@@ -1,7 +1,38 @@
 {
-  "checkedAt": "2026-09-15T21:27:51.645577Z",
+  "checkedAt": "2026-09-16T04:56:26.649235Z",
   "monitoringCount": 28,
-  "longHaul": [],
+  "longHaul": [
+    {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "region": "long_haul",
+      "price": 593,
+      "threshold": 614,
+      "baseline": 1024,
+      "deal": true,
+      "nights": 13,
+      "departure": "2026-11-12T20:00:00+01:00",
+      "return": "2026-11-25T19:30:00-08:00",
+      "dates": "Nov 12 - Nov 25",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "LX",
+          "BUD",
+          "LAX",
+          null
+        ],
+        [
+          "LX",
+          "LAX",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
+    }
+  ],
   "europe": [
     {
       "code": "MAD",
@@ -37,31 +68,31 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 55,
+      "price": 56,
       "threshold": 68,
-      "baseline": 113,
+      "baseline": 112,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-11-18T06:05:00+01:00",
-      "return": "2026-11-20T21:30:00+01:00",
-      "dates": "Nov 18 - Nov 20",
+      "nights": 6,
+      "departure": "2026-11-05T20:10:00+01:00",
+      "return": "2026-11-11T21:25:00+01:00",
+      "dates": "Nov 5 - Nov 11",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "ROM",
           null
         ],
         [
-          "W6",
+          "FR",
           "ROM",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1811ROM20111"
+      "deep_link": "https://www.aviasales.com/search/BUD0511ROM11111"
     },
     {
       "code": "LIS",
@@ -98,8 +129,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 74,
+      "baseline": 123,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-08T06:15:00+01:00",
@@ -128,8 +159,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 66,
-      "threshold": 86,
-      "baseline": 143,
+      "threshold": 82,
+      "baseline": 136,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-12T08:15:00+01:00",
@@ -218,8 +249,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 89,
-      "threshold": 92,
-      "baseline": 154,
+      "threshold": 94,
+      "baseline": 157,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-21T20:15:00+01:00",
