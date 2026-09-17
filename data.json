@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T17:07:00.654611Z",
+  "checkedAt": "2026-09-17T21:28:33.356601Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -65,6 +65,36 @@
   ],
   "europe": [
     {
+      "code": "LON",
+      "city": "London",
+      "region": "europe",
+      "price": 57,
+      "threshold": 58,
+      "baseline": 97,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-11-04T17:30:00+01:00",
+      "return": "2026-11-07T15:15:00Z",
+      "dates": "Nov 4 - Nov 7",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "LON",
+          null
+        ],
+        [
+          "W6",
+          "LON",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0411LON07111"
+    },
+    {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
@@ -99,8 +129,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 54,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 68,
+      "baseline": 113,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:00:00+01:00",
@@ -129,8 +159,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 80,
-      "baseline": 133,
+      "threshold": 82,
+      "baseline": 136,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-08T06:15:00+01:00",
@@ -189,8 +219,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 73,
-      "baseline": 121,
+      "threshold": 74,
+      "baseline": 124,
       "deal": true,
       "nights": 6,
       "departure": "2026-09-23T09:25:00+02:00",
