@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-18T11:25:58.077733Z",
+  "checkedAt": "2026-09-18T16:31:44.124406Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -99,8 +99,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 92,
-      "baseline": 154,
+      "threshold": 94,
+      "baseline": 156,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-02T06:10:00+01:00",
@@ -130,7 +130,7 @@
       "region": "europe",
       "price": 54,
       "threshold": 69,
-      "baseline": 116,
+      "baseline": 114,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:00:00+01:00",
@@ -159,8 +159,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 120,
-      "threshold": 133,
-      "baseline": 221,
+      "threshold": 132,
+      "baseline": 220,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -253,64 +253,34 @@
       "baseline": 138,
       "deal": true,
       "nights": 2,
-      "departure": "2026-09-25T06:20:00+02:00",
-      "return": "2026-09-27T07:05:00+02:00",
-      "dates": "Sep 25 - Sep 27",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "STO",
-          null
-        ],
-        [
-          "W6",
-          "STO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2509STO27091"
-    },
-    {
-      "code": "DUB",
-      "city": "Dublin",
-      "region": "europe",
-      "price": 104,
-      "threshold": 105,
-      "baseline": 175,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-11-09T07:55:00+01:00",
-      "return": "2026-11-11T10:35:00Z",
-      "dates": "Nov 9 - Nov 11",
+      "departure": "2026-10-16T06:45:00+02:00",
+      "return": "2026-10-18T14:45:00+02:00",
+      "dates": "Oct 16 - Oct 18",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "FR",
           "BUD",
-          "DUB",
+          "STO",
           null
         ],
         [
           "FR",
-          "DUB",
+          "STO",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0911DUB11111"
+      "deep_link": "https://www.aviasales.com/search/BUD1610STO18101"
     },
     {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 71,
-      "baseline": 119,
+      "threshold": 70,
+      "baseline": 118,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T19:50:00+01:00",
