@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-18T04:51:46.869384Z",
+  "checkedAt": "2026-09-18T11:25:58.077733Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 593,
-      "threshold": 638,
-      "baseline": 1064,
+      "threshold": 619,
+      "baseline": 1032,
       "deal": true,
       "nights": 13,
       "departure": "2026-11-12T20:00:00+01:00",
@@ -37,8 +37,8 @@
       "city": "Reykjavik",
       "region": "long_haul",
       "price": 181,
-      "threshold": 186,
-      "baseline": 310,
+      "threshold": 184,
+      "baseline": 308,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-10T18:10:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 69,
-      "threshold": 91,
-      "baseline": 152,
+      "threshold": 92,
+      "baseline": 154,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-02T06:10:00+01:00",
@@ -129,8 +129,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 54,
-      "threshold": 68,
-      "baseline": 113,
+      "threshold": 69,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T19:00:00+01:00",
@@ -153,6 +153,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1311ROM16111"
+    },
+    {
+      "code": "LIS",
+      "city": "Lisbon",
+      "region": "europe",
+      "price": 120,
+      "threshold": 133,
+      "baseline": 221,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-02T11:45:00+01:00",
+      "return": "2026-11-04T18:30:00Z",
+      "dates": "Nov 2 - Nov 4",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "LIS",
+          null
+        ],
+        [
+          "FR",
+          "LIS",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0211LIS04111"
     },
     {
       "code": "ATH",
@@ -189,7 +219,7 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 66,
-      "threshold": 88,
+      "threshold": 87,
       "baseline": 146,
       "deal": true,
       "nights": 2,
@@ -218,31 +248,61 @@
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
-      "price": 47,
-      "threshold": 74,
-      "baseline": 124,
+      "price": 82,
+      "threshold": 82,
+      "baseline": 138,
       "deal": true,
-      "nights": 6,
-      "departure": "2026-09-23T09:25:00+02:00",
-      "return": "2026-09-29T20:00:00+02:00",
-      "dates": "Sep 23 - Sep 29",
+      "nights": 2,
+      "departure": "2026-09-25T06:20:00+02:00",
+      "return": "2026-09-27T07:05:00+02:00",
+      "dates": "Sep 25 - Sep 27",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "STO",
+          null
+        ],
+        [
+          "W6",
+          "STO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2509STO27091"
+    },
+    {
+      "code": "DUB",
+      "city": "Dublin",
+      "region": "europe",
+      "price": 104,
+      "threshold": 105,
+      "baseline": 175,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-09T07:55:00+01:00",
+      "return": "2026-11-11T10:35:00Z",
+      "dates": "Nov 9 - Nov 11",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "FR",
           "BUD",
-          "STO",
+          "DUB",
           null
         ],
         [
           "FR",
-          "STO",
+          "DUB",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2309STO29091"
+      "deep_link": "https://www.aviasales.com/search/BUD0911DUB11111"
     },
     {
       "code": "BER",
@@ -250,7 +310,7 @@
       "region": "europe",
       "price": 52,
       "threshold": 71,
-      "baseline": 118,
+      "baseline": 119,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T19:50:00+01:00",
