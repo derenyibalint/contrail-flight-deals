@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-18T23:21:08.467811Z",
+  "checkedAt": "2026-09-19T04:44:21.255412Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 593,
-      "threshold": 626,
-      "baseline": 1042,
+      "threshold": 650,
+      "baseline": 1082,
       "deal": true,
       "nights": 13,
       "departure": "2026-11-12T20:00:00+01:00",
@@ -69,8 +69,8 @@
       "city": "London",
       "region": "europe",
       "price": 57,
-      "threshold": 59,
-      "baseline": 98,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-04T17:30:00+01:00",
@@ -248,14 +248,14 @@
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
-      "price": 82,
+      "price": 61,
       "threshold": 82,
-      "baseline": 137,
+      "baseline": 136,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-10-16T06:45:00+02:00",
-      "return": "2026-10-18T14:45:00+02:00",
-      "dates": "Oct 16 - Oct 18",
+      "nights": 6,
+      "departure": "2026-09-23T09:25:00+02:00",
+      "return": "2026-09-29T20:00:00+02:00",
+      "dates": "Sep 23 - Sep 29",
       "method": "native",
       "seats": null,
       "legs": [
@@ -272,18 +272,18 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1610STO18101"
+      "deep_link": "https://www.aviasales.com/search/BUD2309STO29091"
     },
     {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 52,
-      "threshold": 71,
-      "baseline": 119,
+      "price": 57,
+      "threshold": 73,
+      "baseline": 122,
       "deal": true,
       "nights": 3,
-      "departure": "2026-12-10T19:50:00+01:00",
+      "departure": "2026-12-10T05:30:00+01:00",
       "return": "2026-12-13T21:55:00+01:00",
       "dates": "Dec 10 - Dec 13",
       "method": "native",
