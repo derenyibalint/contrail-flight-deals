@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-22T00:10:19.796498Z",
+  "checkedAt": "2026-09-22T05:07:52.943396Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 65,
-      "baseline": 109,
+      "threshold": 67,
+      "baseline": 111,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T06:05:00+01:00",
@@ -129,8 +129,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 120,
-      "threshold": 130,
-      "baseline": 217,
+      "threshold": 133,
+      "baseline": 222,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -280,7 +280,7 @@
       "region": "europe",
       "price": 48,
       "threshold": 74,
-      "baseline": 123,
+      "baseline": 122,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T07:00:00+01:00",
