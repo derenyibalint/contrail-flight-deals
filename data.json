@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-22T11:48:18.346295Z",
+  "checkedAt": "2026-09-22T17:02:30.592466Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -100,7 +100,7 @@
       "region": "europe",
       "price": 37,
       "threshold": 37,
-      "baseline": 61,
+      "baseline": 62,
       "deal": true,
       "nights": 6,
       "departure": "2026-10-08T22:00:00+02:00",
@@ -189,8 +189,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 95,
-      "threshold": 103,
-      "baseline": 172,
+      "threshold": 105,
+      "baseline": 174,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-30T11:00:00+02:00",
@@ -220,7 +220,7 @@
       "region": "europe",
       "price": 63,
       "threshold": 74,
-      "baseline": 123,
+      "baseline": 124,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-02T17:30:00+01:00",
@@ -278,14 +278,14 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 48,
-      "threshold": 71,
-      "baseline": 118,
+      "price": 49,
+      "threshold": 69,
+      "baseline": 115,
       "deal": true,
       "nights": 3,
-      "departure": "2026-11-13T07:00:00+01:00",
-      "return": "2026-11-16T21:55:00+01:00",
-      "dates": "Nov 13 - Nov 16",
+      "departure": "2026-11-27T19:50:00+01:00",
+      "return": "2026-11-30T21:55:00+01:00",
+      "dates": "Nov 27 - Nov 30",
       "method": "native",
       "seats": null,
       "legs": [
@@ -302,7 +302,37 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1311BER16111"
+      "deep_link": "https://www.aviasales.com/search/BUD2711BER30111"
+    },
+    {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 94,
+      "threshold": 94,
+      "baseline": 156,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-12-19T18:15:00+01:00",
+      "return": "2026-12-22T23:10:00+03:00",
+      "dates": "Dec 19 - Dec 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1912IST22121"
     }
   ]
 }
