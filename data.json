@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T17:12:03.991491Z",
+  "checkedAt": "2026-09-23T21:34:39.991761Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 60,
-      "baseline": 100,
+      "threshold": 58,
+      "baseline": 97,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T06:05:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 120,
-      "threshold": 132,
-      "baseline": 220,
+      "threshold": 138,
+      "baseline": 230,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-02T11:45:00+01:00",
@@ -95,42 +95,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD0211LIS04111"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
-      "region": "europe",
-      "price": 86,
-      "threshold": 87,
-      "baseline": 145,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-10-09T06:10:00+02:00",
-      "return": "2026-10-13T09:35:00+03:00",
-      "dates": "Oct 9 - Oct 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "FR",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0910ATH13101"
-    },
-    {
       "code": "CPH",
       "city": "Copenhagen",
       "region": "europe",
       "price": 95,
-      "threshold": 108,
-      "baseline": 180,
+      "threshold": 104,
+      "baseline": 174,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-30T11:00:00+02:00",
@@ -160,7 +130,7 @@
       "region": "europe",
       "price": 75,
       "threshold": 82,
-      "baseline": 136,
+      "baseline": 137,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-02T17:30:00+01:00",
@@ -189,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 49,
-      "threshold": 69,
-      "baseline": 114,
+      "threshold": 64,
+      "baseline": 107,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-27T19:50:00+01:00",
