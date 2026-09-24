@@ -1,49 +1,7 @@
 {
-  "checkedAt": "2026-09-24T17:17:58.305129Z",
+  "checkedAt": "2026-09-24T21:35:41.076030Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 1530,
-      "threshold": 472,
-      "baseline": 788,
-      "deal": false,
-      "nights": 13,
-      "departure": "2026-09-25T12:40:00+02:00",
-      "return": "2026-10-10T21:45:00",
-      "dates": "Sep 25 - Oct 10",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "LON",
-          199
-        ],
-        [
-          "SN",
-          "LON",
-          "NYC",
-          530
-        ],
-        [
-          "DE",
-          "NYC",
-          "FRA",
-          650
-        ],
-        [
-          "DE",
-          "FRA",
-          "BUD",
-          151
-        ]
-      ],
-      "deep_link": ""
-    },
     {
       "code": "LAX",
       "city": "Los Angeles",
@@ -81,8 +39,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 58,
-      "baseline": 96,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T06:05:00+01:00",
@@ -111,8 +69,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 65,
-      "threshold": 87,
-      "baseline": 144,
+      "threshold": 84,
+      "baseline": 140,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-04T06:15:00+01:00",
@@ -141,8 +99,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 95,
-      "threshold": 106,
-      "baseline": 177,
+      "threshold": 98,
+      "baseline": 164,
       "deal": true,
       "nights": 2,
       "departure": "2026-09-30T11:00:00+02:00",
@@ -172,7 +130,7 @@
       "region": "europe",
       "price": 53,
       "threshold": 80,
-      "baseline": 133,
+      "baseline": 134,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -200,14 +158,14 @@
       "code": "OSL",
       "city": "Oslo",
       "region": "europe",
-      "price": 100,
+      "price": 82,
       "threshold": 163,
       "baseline": 272,
       "deal": true,
       "nights": 6,
-      "departure": "2026-10-29T21:30:00+01:00",
-      "return": "2026-11-04T20:10:00+01:00",
-      "dates": "Oct 29 - Nov 4",
+      "departure": "2026-12-07T16:50:00+01:00",
+      "return": "2026-12-13T14:20:00+01:00",
+      "dates": "Dec 7 - Dec 13",
       "method": "native",
       "seats": null,
       "legs": [
@@ -224,15 +182,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2910OSL04111"
+      "deep_link": "https://www.aviasales.com/search/BUD0712OSL13121"
     },
     {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 49,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 69,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-27T19:50:00+01:00",
@@ -261,8 +219,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 92,
-      "threshold": 92,
-      "baseline": 154,
+      "threshold": 93,
+      "baseline": 155,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-03T20:00:00+02:00",
