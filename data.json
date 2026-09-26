@@ -1,46 +1,15 @@
 {
-  "checkedAt": "2026-09-25T21:39:58.550234Z",
+  "checkedAt": "2026-09-26T05:08:05.431311Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 580,
-      "threshold": 712,
-      "baseline": 1186,
-      "deal": true,
-      "nights": 13,
-      "departure": "2026-11-12T20:00:00+01:00",
-      "return": "2026-11-25T19:30:00-08:00",
-      "dates": "Nov 12 - Nov 25",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "LX",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "LX",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1211LAX25111"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 49,
-      "threshold": 59,
-      "baseline": 99,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-10T06:05:00+01:00",
@@ -95,41 +64,11 @@
       "deep_link": "https://www.aviasales.com/search/BUD0411ATH06111"
     },
     {
-      "code": "CPH",
-      "city": "Copenhagen",
-      "region": "europe",
-      "price": 101,
-      "threshold": 102,
-      "baseline": 170,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-12-23T06:30:00+01:00",
-      "return": "2026-12-26T09:05:00+01:00",
-      "dates": "Dec 23 - Dec 26",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "CPH",
-          null
-        ],
-        [
-          "W6",
-          "CPH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2312CPH26121"
-    },
-    {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 53,
-      "threshold": 77,
+      "threshold": 76,
       "baseline": 128,
       "deal": true,
       "nights": 3,
@@ -159,8 +98,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 80,
-      "threshold": 123,
-      "baseline": 204,
+      "threshold": 98,
+      "baseline": 164,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-07T16:50:00+01:00",
@@ -189,8 +128,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 49,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-27T19:50:00+01:00",
