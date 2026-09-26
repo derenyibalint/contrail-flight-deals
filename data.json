@@ -1,75 +1,15 @@
 {
-  "checkedAt": "2026-09-26T05:08:05.431311Z",
+  "checkedAt": "2026-09-26T11:32:52.636088Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
-    {
-      "code": "ROM",
-      "city": "Rome",
-      "region": "europe",
-      "price": 49,
-      "threshold": 60,
-      "baseline": 100,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-12-10T06:05:00+01:00",
-      "return": "2026-12-13T21:30:00+01:00",
-      "dates": "Dec 10 - Dec 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "ROM",
-          null
-        ],
-        [
-          "W6",
-          "ROM",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1012ROM13121"
-    },
-    {
-      "code": "ATH",
-      "city": "Athens",
-      "region": "europe",
-      "price": 65,
-      "threshold": 80,
-      "baseline": 134,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-11-04T06:15:00+01:00",
-      "return": "2026-11-06T20:00:00+02:00",
-      "dates": "Nov 4 - Nov 6",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "W6",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0411ATH06111"
-    },
     {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 53,
-      "threshold": 76,
-      "baseline": 128,
+      "threshold": 84,
+      "baseline": 140,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -99,7 +39,7 @@
       "region": "europe",
       "price": 80,
       "threshold": 98,
-      "baseline": 164,
+      "baseline": 162,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-07T16:50:00+01:00",
@@ -124,42 +64,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD0712OSL13121"
     },
     {
-      "code": "BER",
-      "city": "Berlin",
-      "region": "europe",
-      "price": 49,
-      "threshold": 71,
-      "baseline": 118,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-27T19:50:00+01:00",
-      "return": "2026-11-30T21:55:00+01:00",
-      "dates": "Nov 27 - Nov 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "BER",
-          null
-        ],
-        [
-          "W6",
-          "BER",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2711BER30111"
-    },
-    {
       "code": "IST",
       "city": "Istanbul",
       "region": "europe",
       "price": 92,
-      "threshold": 94,
-      "baseline": 157,
+      "threshold": 95,
+      "baseline": 158,
       "deal": true,
       "nights": 3,
       "departure": "2026-10-03T20:00:00+02:00",
