@@ -1,58 +1,15 @@
 {
-  "checkedAt": "2026-09-27T05:25:22.592142Z",
+  "checkedAt": "2026-09-27T12:11:23.815326Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 1467,
-      "threshold": 400,
-      "baseline": null,
-      "deal": false,
-      "nights": 10,
-      "departure": "2026-09-29T19:40:00+02:00",
-      "return": "2026-10-13T08:20:00",
-      "dates": "Sep 29 - Oct 13",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          142
-        ],
-        [
-          "BA",
-          "IST",
-          "NYC",
-          700
-        ],
-        [
-          "UX",
-          "NYC",
-          "LON",
-          549
-        ],
-        [
-          "FR",
-          "LON",
-          "BUD",
-          76
-        ]
-      ],
-      "deep_link": ""
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 53,
-      "threshold": 75,
-      "baseline": 125,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
