@@ -1,8 +1,38 @@
 {
-  "checkedAt": "2026-09-27T21:25:42.590604Z",
+  "checkedAt": "2026-09-28T05:33:06.456246Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
+    {
+      "code": "ATH",
+      "city": "Athens",
+      "region": "europe",
+      "price": 86,
+      "threshold": 86,
+      "baseline": 143,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-10-09T06:10:00+02:00",
+      "return": "2026-10-13T09:35:00+03:00",
+      "dates": "Oct 9 - Oct 13",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "ATH",
+          null
+        ],
+        [
+          "FR",
+          "ATH",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0910ATH13101"
+    },
     {
       "code": "STO",
       "city": "Stockholm",
@@ -62,36 +92,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0712OSL13121"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 92,
-      "threshold": 95,
-      "baseline": 159,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-10-03T20:00:00+02:00",
-      "return": "2026-10-06T09:25:00+03:00",
-      "dates": "Oct 3 - Oct 6",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0310IST06101"
     }
   ]
 }
