@@ -1,14 +1,56 @@
 {
-  "checkedAt": "2026-09-29T18:07:44.269031Z",
+  "checkedAt": "2026-09-29T22:22:28.295117Z",
   "monitoringCount": 28,
   "longHaul": [
+    {
+      "code": "BOS",
+      "city": "Boston",
+      "region": "long_haul",
+      "price": 1442,
+      "threshold": 400,
+      "baseline": null,
+      "deal": false,
+      "nights": 9,
+      "departure": "2026-10-31T12:55:00+01:00",
+      "return": "2026-11-11T14:40:00",
+      "dates": "Oct 31 - Nov 11",
+      "method": "hub-hack",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          90
+        ],
+        [
+          "BA",
+          "IST",
+          "BOS",
+          803
+        ],
+        [
+          "QK",
+          "BOS",
+          "LON",
+          500
+        ],
+        [
+          "FR",
+          "LON",
+          "BUD",
+          49
+        ]
+      ],
+      "deep_link": ""
+    },
     {
       "code": "LAX",
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 580,
-      "threshold": 699,
-      "baseline": 1165,
+      "threshold": 711,
+      "baseline": 1185,
       "deal": true,
       "nights": 13,
       "departure": "2026-11-12T20:00:00+01:00",
@@ -68,31 +110,31 @@
       "code": "LON",
       "city": "London",
       "region": "europe",
-      "price": 66,
+      "price": 54,
       "threshold": 67,
       "baseline": 111,
       "deal": true,
-      "nights": 5,
-      "departure": "2026-11-19T12:50:00+01:00",
+      "nights": 4,
+      "departure": "2026-11-20T21:30:00+01:00",
       "return": "2026-11-24T20:25:00Z",
-      "dates": "Nov 19 - Nov 24",
+      "dates": "Nov 20 - Nov 24",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "LON",
           null
         ],
         [
-          "W6",
+          "FR",
           "LON",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1911LON24111"
+      "deep_link": "https://www.aviasales.com/search/BUD2011LON24111"
     },
     {
       "code": "MIL",
@@ -125,42 +167,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD3110MIL03111"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
-      "region": "europe",
-      "price": 86,
-      "threshold": 87,
-      "baseline": 146,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-10-09T06:10:00+02:00",
-      "return": "2026-10-13T09:35:00+03:00",
-      "dates": "Oct 9 - Oct 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "FR",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0910ATH13101"
-    },
-    {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 53,
-      "threshold": 65,
-      "baseline": 109,
+      "threshold": 80,
+      "baseline": 133,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -219,8 +231,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 90,
-      "threshold": 94,
-      "baseline": 156,
+      "threshold": 95,
+      "baseline": 158,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-31T12:55:00+01:00",
