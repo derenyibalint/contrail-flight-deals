@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-28T21:15:53.350477Z",
+  "checkedAt": "2026-09-29T01:03:47.744488Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "New York",
       "region": "long_haul",
       "price": 542,
-      "threshold": 549,
-      "baseline": 915,
+      "threshold": 548,
+      "baseline": 913,
       "deal": true,
       "nights": 9,
       "departure": "2026-12-03T06:15:00+01:00",
@@ -190,7 +190,7 @@
       "region": "europe",
       "price": 90,
       "threshold": 92,
-      "baseline": 152,
+      "baseline": 153,
       "deal": true,
       "nights": 4,
       "departure": "2026-10-31T12:55:00+01:00",
