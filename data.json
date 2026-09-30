@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-29T22:22:28.295117Z",
+  "checkedAt": "2026-09-30T05:41:23.420018Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -49,8 +49,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 580,
-      "threshold": 711,
-      "baseline": 1185,
+      "threshold": 729,
+      "baseline": 1215,
       "deal": true,
       "nights": 13,
       "departure": "2026-11-12T20:00:00+01:00",
@@ -135,36 +135,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2011LON24111"
-    },
-    {
-      "code": "MIL",
-      "city": "Milan",
-      "region": "europe",
-      "price": 40,
-      "threshold": 40,
-      "baseline": 66,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-10-31T19:55:00+01:00",
-      "return": "2026-11-03T22:05:00+01:00",
-      "dates": "Oct 31 - Nov 3",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "MIL",
-          null
-        ],
-        [
-          "FR",
-          "MIL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD3110MIL03111"
     },
     {
       "code": "STO",
