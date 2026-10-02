@@ -1,37 +1,37 @@
 {
-  "checkedAt": "2026-10-02T09:53:42.825262Z",
+  "checkedAt": "2026-10-02T17:54:21.721567Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
     {
-      "code": "ATH",
-      "city": "Athens",
+      "code": "CPH",
+      "city": "Copenhagen",
       "region": "europe",
-      "price": 69,
-      "threshold": 70,
-      "baseline": 116,
+      "price": 59,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 3,
-      "departure": "2026-12-04T21:30:00+01:00",
-      "return": "2026-12-07T18:55:00+02:00",
-      "dates": "Dec 4 - Dec 7",
+      "departure": "2026-11-11T14:10:00+01:00",
+      "return": "2026-11-14T15:25:00+01:00",
+      "dates": "Nov 11 - Nov 14",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "MW",
           "BUD",
-          "ATH",
+          "CPH",
           null
         ],
         [
-          "FR",
-          "ATH",
+          "MW",
+          "CPH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0412ATH07121"
+      "deep_link": "https://www.aviasales.com/search/BUD1111CPH14111"
     },
     {
       "code": "STO",
@@ -67,14 +67,14 @@
       "code": "OSL",
       "city": "Oslo",
       "region": "europe",
-      "price": 80,
-      "threshold": 85,
-      "baseline": 141,
+      "price": 84,
+      "threshold": 90,
+      "baseline": 150,
       "deal": true,
-      "nights": 6,
-      "departure": "2026-12-07T16:50:00+01:00",
-      "return": "2026-12-13T14:20:00+01:00",
-      "dates": "Dec 7 - Dec 13",
+      "nights": 4,
+      "departure": "2026-12-24T05:55:00+01:00",
+      "return": "2026-12-28T20:10:00+01:00",
+      "dates": "Dec 24 - Dec 28",
       "method": "native",
       "seats": null,
       "legs": [
@@ -91,7 +91,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0712OSL13121"
+      "deep_link": "https://www.aviasales.com/search/BUD2412OSL28121"
     },
     {
       "code": "IST",
