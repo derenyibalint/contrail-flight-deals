@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-02T00:52:30.695626Z",
+  "checkedAt": "2026-10-02T09:53:42.825262Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 69,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 70,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-04T21:30:00+01:00",
@@ -38,8 +38,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 65,
-      "baseline": 108,
+      "threshold": 62,
+      "baseline": 103,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 80,
-      "threshold": 90,
-      "baseline": 150,
+      "threshold": 85,
+      "baseline": 141,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-07T16:50:00+01:00",
@@ -94,34 +94,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD0712OSL13121"
     },
     {
-      "code": "DUB",
-      "city": "Dublin",
+      "code": "IST",
+      "city": "Istanbul",
       "region": "europe",
-      "price": 83,
-      "threshold": 85,
-      "baseline": 142,
+      "price": 88,
+      "threshold": 88,
+      "baseline": 147,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-11-06T21:40:00+01:00",
-      "return": "2026-11-09T07:20:00Z",
-      "dates": "Nov 6 - Nov 9",
+      "nights": 2,
+      "departure": "2027-01-26T12:55:00+01:00",
+      "return": "2027-01-28T09:55:00+03:00",
+      "dates": "Jan 26 - Jan 28",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
-          "DUB",
+          "IST",
           null
         ],
         [
-          "FR",
-          "DUB",
+          "W6",
+          "IST",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0611DUB09111"
+      "deep_link": "https://www.aviasales.com/search/BUD2601IST28011"
     }
   ]
 }
