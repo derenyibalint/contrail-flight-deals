@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-02T17:54:21.721567Z",
+  "checkedAt": "2026-10-02T22:19:48.233012Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -39,7 +39,7 @@
       "region": "europe",
       "price": 52,
       "threshold": 62,
-      "baseline": 103,
+      "baseline": 104,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
