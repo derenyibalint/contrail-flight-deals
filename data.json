@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-03T16:29:19.609933Z",
+  "checkedAt": "2026-10-03T21:25:28.130159Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -40,7 +40,7 @@
       "region": "europe",
       "price": 59,
       "threshold": 61,
-      "baseline": 101,
+      "baseline": 102,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-11T14:10:00+01:00",
@@ -98,14 +98,14 @@
       "code": "OSL",
       "city": "Oslo",
       "region": "europe",
-      "price": 84,
+      "price": 80,
       "threshold": 107,
       "baseline": 178,
       "deal": true,
-      "nights": 4,
-      "departure": "2026-12-24T05:55:00+01:00",
-      "return": "2026-12-28T20:10:00+01:00",
-      "dates": "Dec 24 - Dec 28",
+      "nights": 6,
+      "departure": "2027-01-11T16:50:00+01:00",
+      "return": "2027-01-17T16:55:00+01:00",
+      "dates": "Jan 11 - Jan 17",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,15 +122,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2412OSL28121"
+      "deep_link": "https://www.aviasales.com/search/BUD1101OSL17011"
     },
     {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 54,
-      "threshold": 57,
-      "baseline": 95,
+      "threshold": 55,
+      "baseline": 92,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-05T05:55:00+01:00",
