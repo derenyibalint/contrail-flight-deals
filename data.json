@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-10-03T11:48:10.966673Z",
+  "checkedAt": "2026-10-03T16:29:19.609933Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "NYC",
       "city": "New York",
       "region": "long_haul",
-      "price": 531,
-      "threshold": 536,
-      "baseline": 893,
+      "price": 515,
+      "threshold": 529,
+      "baseline": 882,
       "deal": true,
-      "nights": 10,
-      "departure": "2026-10-14T15:30:00+02:00",
-      "return": "2026-10-24T16:55:00-04:00",
-      "dates": "Oct 14 - Oct 24",
+      "nights": 14,
+      "departure": "2026-11-18T11:10:00+01:00",
+      "return": "2026-12-02T17:48:00-05:00",
+      "dates": "Nov 18 - Dec 2",
       "method": "native",
       "seats": null,
       "legs": [
@@ -30,7 +30,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1410NYC24101"
+      "deep_link": "https://www.aviasales.com/search/BUD1811NYC02121"
     }
   ],
   "europe": [
@@ -39,8 +39,8 @@
       "city": "Copenhagen",
       "region": "europe",
       "price": 59,
-      "threshold": 62,
-      "baseline": 103,
+      "threshold": 61,
+      "baseline": 101,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-11T14:10:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 59,
-      "baseline": 98,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 84,
-      "threshold": 102,
-      "baseline": 170,
+      "threshold": 107,
+      "baseline": 178,
       "deal": true,
       "nights": 4,
       "departure": "2026-12-24T05:55:00+01:00",
@@ -123,6 +123,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2412OSL28121"
+    },
+    {
+      "code": "BER",
+      "city": "Berlin",
+      "region": "europe",
+      "price": 54,
+      "threshold": 57,
+      "baseline": 95,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-11-05T05:55:00+01:00",
+      "return": "2026-11-09T12:50:00+01:00",
+      "dates": "Nov 5 - Nov 9",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "BER",
+          null
+        ],
+        [
+          "FR",
+          "BER",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0511BER09111"
     },
     {
       "code": "IST",
