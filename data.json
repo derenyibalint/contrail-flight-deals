@@ -1,38 +1,7 @@
 {
-  "checkedAt": "2026-10-03T21:25:28.130159Z",
+  "checkedAt": "2026-10-04T06:01:45.702330Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 515,
-      "threshold": 529,
-      "baseline": 882,
-      "deal": true,
-      "nights": 14,
-      "departure": "2026-11-18T11:10:00+01:00",
-      "return": "2026-12-02T17:48:00-05:00",
-      "dates": "Nov 18 - Dec 2",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "IB",
-          "BUD",
-          "NYC",
-          null
-        ],
-        [
-          "IB",
-          "NYC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1811NYC02121"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "CPH",
@@ -69,8 +38,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 60,
-      "baseline": 100,
+      "threshold": 59,
+      "baseline": 99,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -160,7 +129,7 @@
       "region": "europe",
       "price": 88,
       "threshold": 89,
-      "baseline": 148,
+      "baseline": 149,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-26T12:55:00+01:00",
