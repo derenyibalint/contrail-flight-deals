@@ -1,37 +1,7 @@
 {
-  "checkedAt": "2026-10-05T14:54:50.015527Z",
+  "checkedAt": "2026-10-05T22:03:35.212192Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 515,
-      "threshold": 532,
-      "baseline": 886,
-      "deal": true,
-      "nights": 14,
-      "departure": "2026-11-18T11:10:00+01:00",
-      "return": "2026-12-02T17:48:00-05:00",
-      "dates": "Nov 18 - Dec 2",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "IB",
-          "BUD",
-          "NYC",
-          null
-        ],
-        [
-          "IB",
-          "NYC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1811NYC02121"
-    },
     {
       "code": "SFO",
       "city": "San Francisco",
@@ -65,42 +35,12 @@
   ],
   "europe": [
     {
-      "code": "CPH",
-      "city": "Copenhagen",
-      "region": "europe",
-      "price": 59,
-      "threshold": 59,
-      "baseline": 98,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-11T14:10:00+01:00",
-      "return": "2026-11-14T15:25:00+01:00",
-      "dates": "Nov 11 - Nov 14",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "MW",
-          "BUD",
-          "CPH",
-          null
-        ],
-        [
-          "MW",
-          "CPH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1111CPH14111"
-    },
-    {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 61,
-      "baseline": 101,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -183,36 +123,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0511BER09111"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 88,
-      "threshold": 88,
-      "baseline": 147,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-26T12:55:00+01:00",
-      "return": "2027-01-28T09:55:00+03:00",
-      "dates": "Jan 26 - Jan 28",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2601IST28011"
     }
   ]
 }
