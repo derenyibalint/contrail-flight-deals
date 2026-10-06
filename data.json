@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-06T06:30:32.427182Z",
+  "checkedAt": "2026-10-06T16:00:48.028801Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -9,7 +9,7 @@
       "region": "europe",
       "price": 52,
       "threshold": 63,
-      "baseline": 106,
+      "baseline": 104,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -38,8 +38,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 80,
-      "threshold": 100,
-      "baseline": 166,
+      "threshold": 97,
+      "baseline": 162,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-11T16:50:00+01:00",
@@ -92,6 +92,66 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0511BER09111"
+    },
+    {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 88,
+      "threshold": 88,
+      "baseline": 146,
+      "deal": true,
+      "nights": 2,
+      "departure": "2027-01-26T12:55:00+01:00",
+      "return": "2027-01-28T09:55:00+03:00",
+      "dates": "Jan 26 - Jan 28",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2601IST28011"
+    },
+    {
+      "code": "BGO",
+      "city": "Bergen",
+      "region": "europe",
+      "price": 90,
+      "threshold": 114,
+      "baseline": 190,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-11-13T11:50:00+01:00",
+      "return": "2026-11-16T15:10:00+01:00",
+      "dates": "Nov 13 - Nov 16",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BGO",
+          null
+        ],
+        [
+          "W6",
+          "BGO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1311BGO16111"
     }
   ]
 }
