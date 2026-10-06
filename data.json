@@ -1,45 +1,14 @@
 {
-  "checkedAt": "2026-10-05T22:03:35.212192Z",
+  "checkedAt": "2026-10-06T06:30:32.427182Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "SFO",
-      "city": "San Francisco",
-      "region": "long_haul",
-      "price": 659,
-      "threshold": 783,
-      "baseline": 1305,
-      "deal": true,
-      "nights": 7,
-      "departure": "2026-10-15T14:25:00+02:00",
-      "return": "2026-10-22T19:35:00-07:00",
-      "dates": "Oct 15 - Oct 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "LH",
-          "BUD",
-          "SFO",
-          null
-        ],
-        [
-          "LH",
-          "SFO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1510SFO22101"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 64,
+      "threshold": 63,
       "baseline": 106,
       "deal": true,
       "nights": 3,
@@ -99,8 +68,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 54,
-      "threshold": 55,
-      "baseline": 91,
+      "threshold": 54,
+      "baseline": 90,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-05T05:55:00+01:00",
