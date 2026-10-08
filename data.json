@@ -1,46 +1,15 @@
 {
-  "checkedAt": "2026-10-07T20:39:31.423027Z",
+  "checkedAt": "2026-10-08T01:03:14.679661Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 515,
-      "threshold": 532,
-      "baseline": 888,
-      "deal": true,
-      "nights": 14,
-      "departure": "2026-11-18T11:10:00+01:00",
-      "return": "2026-12-02T17:48:00-05:00",
-      "dates": "Nov 18 - Dec 2",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "IB",
-          "BUD",
-          "NYC",
-          null
-        ],
-        [
-          "IB",
-          "NYC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1811NYC02121"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 58,
-      "threshold": 58,
-      "baseline": 97,
+      "threshold": 59,
+      "baseline": 98,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-12T06:05:00+01:00",
@@ -69,8 +38,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 58,
-      "threshold": 66,
-      "baseline": 110,
+      "threshold": 67,
+      "baseline": 111,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:15:00+01:00",
@@ -130,7 +99,7 @@
       "region": "europe",
       "price": 80,
       "threshold": 104,
-      "baseline": 174,
+      "baseline": 173,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-11T16:50:00+01:00",
@@ -159,8 +128,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 88,
-      "threshold": 88,
-      "baseline": 147,
+      "threshold": 89,
+      "baseline": 148,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-26T12:55:00+01:00",
