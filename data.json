@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-08T01:03:14.679661Z",
+  "checkedAt": "2026-10-08T10:43:42.098567Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -38,8 +38,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 58,
-      "threshold": 67,
-      "baseline": 111,
+      "threshold": 62,
+      "baseline": 104,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:15:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 52,
-      "threshold": 68,
-      "baseline": 114,
+      "threshold": 66,
+      "baseline": 110,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-20T18:25:00+01:00",
@@ -124,42 +124,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD1101OSL17011"
     },
     {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 88,
-      "threshold": 89,
-      "baseline": 148,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-26T12:55:00+01:00",
-      "return": "2027-01-28T09:55:00+03:00",
-      "dates": "Jan 26 - Jan 28",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2601IST28011"
-    },
-    {
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
       "price": 90,
       "threshold": 172,
-      "baseline": 286,
+      "baseline": 288,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T11:50:00+01:00",
