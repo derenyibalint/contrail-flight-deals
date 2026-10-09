@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-09T01:15:30.941441Z",
+  "checkedAt": "2026-10-09T10:42:42.925960Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -9,7 +9,7 @@
       "region": "europe",
       "price": 70,
       "threshold": 74,
-      "baseline": 123,
+      "baseline": 124,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-04T09:35:00+01:00",
@@ -32,36 +32,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0412MAD07121"
-    },
-    {
-      "code": "ROM",
-      "city": "Rome",
-      "region": "europe",
-      "price": 58,
-      "threshold": 61,
-      "baseline": 101,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-12T06:05:00+01:00",
-      "return": "2027-01-14T08:35:00+01:00",
-      "dates": "Jan 12 - Jan 14",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "ROM",
-          null
-        ],
-        [
-          "W6",
-          "ROM",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1201ROM14011"
     },
     {
       "code": "ATH",
@@ -127,14 +97,14 @@
       "code": "IST",
       "city": "Istanbul",
       "region": "europe",
-      "price": 87,
+      "price": 80,
       "threshold": 89,
-      "baseline": 149,
+      "baseline": 148,
       "deal": true,
-      "nights": 5,
-      "departure": "2027-01-10T05:00:00+01:00",
-      "return": "2027-01-15T09:55:00+03:00",
-      "dates": "Jan 10 - Jan 15",
+      "nights": 3,
+      "departure": "2027-01-09T05:00:00+01:00",
+      "return": "2027-01-12T23:10:00+03:00",
+      "dates": "Jan 9 - Jan 12",
       "method": "native",
       "seats": null,
       "legs": [
@@ -151,15 +121,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1001IST15011"
+      "deep_link": "https://www.aviasales.com/search/BUD0901IST12011"
     },
     {
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
       "price": 90,
-      "threshold": 128,
-      "baseline": 214,
+      "threshold": 121,
+      "baseline": 202,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T11:50:00+01:00",
