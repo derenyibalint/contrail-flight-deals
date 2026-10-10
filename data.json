@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-10T00:57:34.895795Z",
+  "checkedAt": "2026-10-10T09:58:31.378407Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 83,
-      "threshold": 85,
-      "baseline": 142,
+      "threshold": 86,
+      "baseline": 143,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-15T05:50:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 58,
-      "threshold": 68,
-      "baseline": 114,
+      "threshold": 69,
+      "baseline": 115,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:15:00+01:00",
@@ -92,36 +92,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1511ATH21111"
-    },
-    {
-      "code": "STO",
-      "city": "Stockholm",
-      "region": "europe",
-      "price": 64,
-      "threshold": 71,
-      "baseline": 118,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-11-26T07:00:00+01:00",
-      "return": "2026-11-30T09:55:00+01:00",
-      "dates": "Nov 26 - Nov 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "STO",
-          null
-        ],
-        [
-          "FR",
-          "STO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2611STO30111"
     },
     {
       "code": "OSL",
@@ -159,7 +129,7 @@
       "region": "europe",
       "price": 80,
       "threshold": 88,
-      "baseline": 148,
+      "baseline": 146,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-09T05:00:00+01:00",
@@ -188,8 +158,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 90,
-      "threshold": 130,
-      "baseline": 216,
+      "threshold": 136,
+      "baseline": 227,
       "deal": true,
       "nights": 3,
       "departure": "2026-11-13T11:50:00+01:00",
