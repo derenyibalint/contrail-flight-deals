@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-11T19:35:27.507229Z",
+  "checkedAt": "2026-10-12T00:36:58.217342Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -38,8 +38,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 70,
-      "threshold": 76,
-      "baseline": 127,
+      "threshold": 75,
+      "baseline": 126,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-04T09:35:00+01:00",
@@ -69,7 +69,7 @@
       "region": "europe",
       "price": 57,
       "threshold": 61,
-      "baseline": 102,
+      "baseline": 101,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-12T20:10:00+01:00",
@@ -94,34 +94,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD1211ROM16111"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
+      "code": "DUB",
+      "city": "Dublin",
       "region": "europe",
-      "price": 58,
-      "threshold": 70,
-      "baseline": 116,
+      "price": 94,
+      "threshold": 94,
+      "baseline": 156,
       "deal": true,
-      "nights": 6,
-      "departure": "2026-11-15T06:15:00+01:00",
-      "return": "2026-11-21T21:45:00+02:00",
-      "dates": "Nov 15 - Nov 21",
+      "nights": 3,
+      "departure": "2026-11-06T21:40:00+01:00",
+      "return": "2026-11-09T10:30:00Z",
+      "dates": "Nov 6 - Nov 9",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
-          "ATH",
+          "DUB",
           null
         ],
         [
-          "W6",
-          "ATH",
+          "FR",
+          "DUB",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1511ATH21111"
+      "deep_link": "https://www.aviasales.com/search/BUD0611DUB09111"
     },
     {
       "code": "IST",
