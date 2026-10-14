@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-14T17:19:21.107005Z",
+  "checkedAt": "2026-10-14T21:47:19.631107Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 83,
-      "threshold": 95,
-      "baseline": 158,
+      "threshold": 97,
+      "baseline": 161,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-15T05:50:00+01:00",
@@ -70,7 +70,7 @@
       "region": "europe",
       "price": 70,
       "threshold": 85,
-      "baseline": 142,
+      "baseline": 141,
       "deal": true,
       "nights": 3,
       "departure": "2026-12-04T09:35:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 57,
-      "threshold": 62,
-      "baseline": 104,
+      "threshold": 59,
+      "baseline": 99,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-12T20:10:00+01:00",
@@ -153,36 +153,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2901STO31011"
-    },
-    {
-      "code": "OSL",
-      "city": "Oslo",
-      "region": "europe",
-      "price": 79,
-      "threshold": 85,
-      "baseline": 142,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-11-06T18:20:00+01:00",
-      "return": "2026-11-08T11:50:00+01:00",
-      "dates": "Nov 6 - Nov 8",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "OSL",
-          null
-        ],
-        [
-          "W6",
-          "OSL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0611OSL08111"
     },
     {
       "code": "DUB",
