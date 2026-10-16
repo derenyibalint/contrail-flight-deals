@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-16T11:34:35.063475Z",
+  "checkedAt": "2026-10-16T16:45:38.880898Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -7,14 +7,14 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 83,
+      "price": 90,
       "threshold": 95,
       "baseline": 158,
       "deal": true,
-      "nights": 2,
+      "nights": 3,
       "departure": "2027-01-15T05:50:00+01:00",
-      "return": "2027-01-17T11:50:00+01:00",
-      "dates": "Jan 15 - Jan 17",
+      "return": "2027-01-18T16:45:00+01:00",
+      "dates": "Jan 15 - Jan 18",
       "method": "native",
       "seats": null,
       "legs": [
@@ -31,7 +31,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1501PAR17011"
+      "deep_link": "https://www.aviasales.com/search/BUD1501PAR18011"
     },
     {
       "code": "ROM",
@@ -64,12 +64,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD1301ROM16011"
     },
     {
+      "code": "MIL",
+      "city": "Milan",
+      "region": "europe",
+      "price": 42,
+      "threshold": 42,
+      "baseline": 70,
+      "deal": true,
+      "nights": 3,
+      "departure": "2026-11-19T08:35:00+01:00",
+      "return": "2026-11-22T08:45:00+01:00",
+      "dates": "Nov 19 - Nov 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "MIL",
+          null
+        ],
+        [
+          "FR",
+          "MIL",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1911MIL22111"
+    },
+    {
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
       "price": 100,
-      "threshold": 108,
-      "baseline": 180,
+      "threshold": 110,
+      "baseline": 182,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-07T16:00:00+01:00",
@@ -182,36 +212,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0611DUB09111"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 88,
-      "threshold": 93,
-      "baseline": 155,
-      "deal": true,
-      "nights": 2,
-      "departure": "2026-11-10T05:00:00+01:00",
-      "return": "2026-11-12T09:55:00+03:00",
-      "dates": "Nov 10 - Nov 12",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1011IST12111"
     },
     {
       "code": "BGO",
