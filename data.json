@@ -1,15 +1,46 @@
 {
-  "checkedAt": "2026-10-16T16:45:38.880898Z",
+  "checkedAt": "2026-10-16T21:20:20.103366Z",
   "monitoringCount": 28,
-  "longHaul": [],
+  "longHaul": [
+    {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "region": "long_haul",
+      "price": 594,
+      "threshold": 600,
+      "baseline": 1000,
+      "deal": true,
+      "nights": 8,
+      "departure": "2027-01-07T11:35:00+01:00",
+      "return": "2027-01-15T18:25:00-08:00",
+      "dates": "Jan 7 - Jan 15",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "AY",
+          "BUD",
+          "LAX",
+          null
+        ],
+        [
+          "AY",
+          "LAX",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0701LAX15011"
+    }
+  ],
   "europe": [
     {
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
       "price": 90,
-      "threshold": 95,
-      "baseline": 158,
+      "threshold": 92,
+      "baseline": 153,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-15T05:50:00+01:00",
@@ -38,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 51,
-      "threshold": 61,
-      "baseline": 102,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-13T06:05:00+01:00",
@@ -157,7 +188,7 @@
       "code": "OSL",
       "city": "Oslo",
       "region": "europe",
-      "price": 73,
+      "price": 82,
       "threshold": 89,
       "baseline": 148,
       "deal": true,
