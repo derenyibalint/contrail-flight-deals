@@ -1,38 +1,7 @@
 {
-  "checkedAt": "2026-10-16T21:20:20.103366Z",
+  "checkedAt": "2026-10-17T04:38:11.553370Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 594,
-      "threshold": 600,
-      "baseline": 1000,
-      "deal": true,
-      "nights": 8,
-      "departure": "2027-01-07T11:35:00+01:00",
-      "return": "2027-01-15T18:25:00-08:00",
-      "dates": "Jan 7 - Jan 15",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "AY",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "AY",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0701LAX15011"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "PAR",
