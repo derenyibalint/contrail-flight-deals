@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T12:00:53.771945Z",
+  "checkedAt": "2026-10-21T17:20:32.910889Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 100,
-      "threshold": 110,
-      "baseline": 184,
+      "threshold": 114,
+      "baseline": 190,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-07T16:00:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 57,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 80,
+      "baseline": 134,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:00:00+01:00",
@@ -129,8 +129,8 @@
       "city": "Oslo",
       "region": "europe",
       "price": 82,
-      "threshold": 88,
-      "baseline": 146,
+      "threshold": 82,
+      "baseline": 138,
       "deal": true,
       "nights": 4,
       "departure": "2026-12-02T16:50:00+01:00",
@@ -155,42 +155,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD0212OSL06121"
     },
     {
-      "code": "DUB",
-      "city": "Dublin",
-      "region": "europe",
-      "price": 118,
-      "threshold": 205,
-      "baseline": 342,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-06T10:30:00+01:00",
-      "return": "2026-11-09T07:20:00Z",
-      "dates": "Nov 6 - Nov 9",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "DUB",
-          null
-        ],
-        [
-          "FR",
-          "DUB",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0611DUB09111"
-    },
-    {
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
       "price": 92,
-      "threshold": 107,
-      "baseline": 179,
+      "threshold": 95,
+      "baseline": 159,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-31T16:15:00+01:00",
