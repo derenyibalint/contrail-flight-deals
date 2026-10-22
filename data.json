@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T17:18:09.584668Z",
+  "checkedAt": "2026-10-22T21:43:44.206377Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -39,8 +39,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 38,
-      "threshold": 45,
-      "baseline": 75,
+      "threshold": 46,
+      "baseline": 76,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Lisbon",
       "region": "europe",
       "price": 100,
-      "threshold": 115,
-      "baseline": 191,
+      "threshold": 112,
+      "baseline": 188,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-07T16:00:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 57,
-      "threshold": 75,
-      "baseline": 125,
+      "threshold": 74,
+      "baseline": 124,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:00:00+01:00",
@@ -123,36 +123,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1511ATH21111"
-    },
-    {
-      "code": "BGO",
-      "city": "Bergen",
-      "region": "europe",
-      "price": 92,
-      "threshold": 107,
-      "baseline": 178,
-      "deal": true,
-      "nights": 6,
-      "departure": "2026-12-31T16:15:00+01:00",
-      "return": "2027-01-06T14:05:00+01:00",
-      "dates": "Dec 31 - Jan 6",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "BGO",
-          null
-        ],
-        [
-          "W6",
-          "BGO",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD3112BGO06011"
     }
   ]
 }
