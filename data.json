@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22T12:03:39.678075Z",
+  "checkedAt": "2026-10-22T17:18:09.584668Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "New York",
       "region": "long_haul",
       "price": 546,
-      "threshold": 553,
-      "baseline": 922,
+      "threshold": 572,
+      "baseline": 952,
       "deal": true,
       "nights": 4,
       "departure": "2026-11-25T11:35:00+01:00",
@@ -39,8 +39,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 38,
-      "threshold": 44,
-      "baseline": 74,
+      "threshold": 45,
+      "baseline": 75,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -125,42 +125,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD1511ATH21111"
     },
     {
-      "code": "BER",
-      "city": "Berlin",
-      "region": "europe",
-      "price": 50,
-      "threshold": 68,
-      "baseline": 113,
-      "deal": true,
-      "nights": 3,
-      "departure": "2026-11-19T05:55:00+01:00",
-      "return": "2026-11-22T12:55:00+01:00",
-      "dates": "Nov 19 - Nov 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "BER",
-          null
-        ],
-        [
-          "FR",
-          "BER",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1911BER22111"
-    },
-    {
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
       "price": 92,
-      "threshold": 113,
-      "baseline": 188,
+      "threshold": 107,
+      "baseline": 178,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-31T16:15:00+01:00",
