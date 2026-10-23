@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-23T05:01:21.013958Z",
+  "checkedAt": "2026-10-23T11:48:43.257026Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -31,6 +31,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2511NYC29111"
+    },
+    {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "region": "long_haul",
+      "price": 631,
+      "threshold": 640,
+      "baseline": 1066,
+      "deal": true,
+      "nights": 4,
+      "departure": "2026-11-12T11:10:00+01:00",
+      "return": "2026-11-16T18:30:00-08:00",
+      "dates": "Nov 12 - Nov 16",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "IB",
+          "BUD",
+          "LAX",
+          null
+        ],
+        [
+          "IB",
+          "LAX",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1211LAX16111"
     }
   ],
   "europe": [
@@ -65,36 +95,6 @@
       "deep_link": "https://www.aviasales.com/search/BUD0312MIL08121"
     },
     {
-      "code": "LIS",
-      "city": "Lisbon",
-      "region": "europe",
-      "price": 100,
-      "threshold": 112,
-      "baseline": 188,
-      "deal": true,
-      "nights": 3,
-      "departure": "2027-01-07T16:00:00+01:00",
-      "return": "2027-01-10T19:40:00Z",
-      "dates": "Jan 7 - Jan 10",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "LIS",
-          null
-        ],
-        [
-          "W6",
-          "LIS",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0701LIS10011"
-    },
-    {
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
@@ -123,6 +123,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1511ATH21111"
+    },
+    {
+      "code": "BER",
+      "city": "Berlin",
+      "region": "europe",
+      "price": 53,
+      "threshold": 73,
+      "baseline": 121,
+      "deal": true,
+      "nights": 3,
+      "departure": "2027-01-26T19:00:00+01:00",
+      "return": "2027-01-29T09:05:00+01:00",
+      "dates": "Jan 26 - Jan 29",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BER",
+          null
+        ],
+        [
+          "W6",
+          "BER",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2601BER29011"
     }
   ]
 }
