@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T20:57:13.092433Z",
+  "checkedAt": "2026-10-24T23:21:20.236624Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -69,8 +69,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 57,
-      "threshold": 78,
-      "baseline": 130,
+      "threshold": 82,
+      "baseline": 137,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:00:00+01:00",
