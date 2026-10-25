@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T04:53:34.961749Z",
+  "checkedAt": "2026-10-25T11:44:03.975384Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -35,12 +35,42 @@
   ],
   "europe": [
     {
+      "code": "ROM",
+      "city": "Rome",
+      "region": "europe",
+      "price": 59,
+      "threshold": 64,
+      "baseline": 106,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-16T06:55:00+01:00",
+      "return": "2026-11-18T21:25:00+01:00",
+      "dates": "Nov 16 - Nov 18",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "ROM",
+          null
+        ],
+        [
+          "FR",
+          "ROM",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1611ROM18111"
+    },
+    {
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
       "price": 38,
-      "threshold": 48,
-      "baseline": 80,
+      "threshold": 50,
+      "baseline": 84,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -69,7 +99,7 @@
       "city": "Athens",
       "region": "europe",
       "price": 57,
-      "threshold": 82,
+      "threshold": 81,
       "baseline": 136,
       "deal": true,
       "nights": 6,
@@ -99,8 +129,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 76,
-      "baseline": 126,
+      "threshold": 74,
+      "baseline": 124,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-26T07:00:00+01:00",
@@ -129,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 53,
-      "threshold": 73,
-      "baseline": 122,
+      "threshold": 74,
+      "baseline": 124,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-26T19:00:00+01:00",
