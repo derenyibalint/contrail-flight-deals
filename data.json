@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25T11:44:03.975384Z",
+  "checkedAt": "2026-10-25T16:32:13.005039Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 631,
-      "threshold": 640,
-      "baseline": 1066,
+      "threshold": 636,
+      "baseline": 1060,
       "deal": true,
       "nights": 12,
       "departure": "2026-11-11T11:10:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 97,
-      "threshold": 98,
-      "baseline": 163,
+      "threshold": 100,
+      "baseline": 166,
       "deal": true,
       "nights": 5,
       "departure": "2026-11-25T05:00:00+01:00",
