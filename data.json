@@ -1,38 +1,7 @@
 {
-  "checkedAt": "2026-10-25T23:19:46.589828Z",
+  "checkedAt": "2026-10-26T04:57:31.124891Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "LAX",
-      "city": "Los Angeles",
-      "region": "long_haul",
-      "price": 631,
-      "threshold": 636,
-      "baseline": 1060,
-      "deal": true,
-      "nights": 12,
-      "departure": "2026-11-11T11:10:00+01:00",
-      "return": "2026-11-23T16:55:00-08:00",
-      "dates": "Nov 11 - Nov 23",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "IB",
-          "BUD",
-          "LAX",
-          null
-        ],
-        [
-          "IB",
-          "LAX",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1111LAX23111"
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "ROM",
@@ -129,8 +98,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 73,
-      "baseline": 121,
+      "threshold": 71,
+      "baseline": 119,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-26T07:00:00+01:00",
@@ -183,36 +152,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2601BER29011"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 97,
-      "threshold": 97,
-      "baseline": 162,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-11-25T05:00:00+01:00",
-      "return": "2026-11-30T09:55:00+03:00",
-      "dates": "Nov 25 - Nov 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2511IST30111"
     }
   ]
 }
