@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T04:57:31.124891Z",
+  "checkedAt": "2026-10-26T13:16:35.604856Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -9,7 +9,7 @@
       "region": "europe",
       "price": 59,
       "threshold": 64,
-      "baseline": 106,
+      "baseline": 107,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-16T06:55:00+01:00",
@@ -39,7 +39,7 @@
       "region": "europe",
       "price": 38,
       "threshold": 50,
-      "baseline": 83,
+      "baseline": 84,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 57,
-      "threshold": 79,
-      "baseline": 132,
+      "threshold": 75,
+      "baseline": 126,
       "deal": true,
       "nights": 6,
       "departure": "2026-11-15T06:00:00+01:00",
@@ -98,8 +98,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 71,
-      "baseline": 119,
+      "threshold": 65,
+      "baseline": 108,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-26T07:00:00+01:00",
@@ -128,8 +128,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 53,
-      "threshold": 75,
-      "baseline": 125,
+      "threshold": 76,
+      "baseline": 128,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-26T19:00:00+01:00",
@@ -152,6 +152,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2601BER29011"
+    },
+    {
+      "code": "IST",
+      "city": "Istanbul",
+      "region": "europe",
+      "price": 97,
+      "threshold": 97,
+      "baseline": 162,
+      "deal": true,
+      "nights": 5,
+      "departure": "2026-11-25T05:00:00+01:00",
+      "return": "2026-11-30T09:55:00+03:00",
+      "dates": "Nov 25 - Nov 30",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "IST",
+          null
+        ],
+        [
+          "W6",
+          "IST",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2511IST30111"
     }
   ]
 }
