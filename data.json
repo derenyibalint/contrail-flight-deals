@@ -1,14 +1,44 @@
 {
-  "checkedAt": "2026-10-27T15:25:02.034432Z",
+  "checkedAt": "2026-10-27T22:23:26.237132Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
+    {
+      "code": "LON",
+      "city": "London",
+      "region": "europe",
+      "price": 59,
+      "threshold": 61,
+      "baseline": 101,
+      "deal": true,
+      "nights": 2,
+      "departure": "2027-01-28T18:25:00+01:00",
+      "return": "2027-01-30T16:00:00Z",
+      "dates": "Jan 28 - Jan 30",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "LON",
+          null
+        ],
+        [
+          "FR",
+          "LON",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2801LON30011"
+    },
     {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 59,
-      "threshold": 67,
+      "threshold": 68,
       "baseline": 112,
       "deal": true,
       "nights": 2,
@@ -38,8 +68,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 38,
-      "threshold": 52,
-      "baseline": 86,
+      "threshold": 53,
+      "baseline": 88,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -68,8 +98,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 47,
-      "threshold": 68,
-      "baseline": 114,
+      "threshold": 71,
+      "baseline": 119,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-26T07:00:00+01:00",
@@ -98,8 +128,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 53,
-      "threshold": 76,
-      "baseline": 128,
+      "threshold": 75,
+      "baseline": 124,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-26T19:00:00+01:00",
@@ -127,14 +157,14 @@
       "code": "IST",
       "city": "Istanbul",
       "region": "europe",
-      "price": 97,
+      "price": 83,
       "threshold": 97,
-      "baseline": 161,
+      "baseline": 162,
       "deal": true,
-      "nights": 5,
-      "departure": "2026-11-25T05:00:00+01:00",
-      "return": "2026-11-30T09:55:00+03:00",
-      "dates": "Nov 25 - Nov 30",
+      "nights": 6,
+      "departure": "2026-12-10T05:00:00+01:00",
+      "return": "2026-12-16T09:55:00+03:00",
+      "dates": "Dec 10 - Dec 16",
       "method": "native",
       "seats": null,
       "legs": [
@@ -151,7 +181,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2511IST30111"
+      "deep_link": "https://www.aviasales.com/search/BUD1012IST16121"
     }
   ]
 }
