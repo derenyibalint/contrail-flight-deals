@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T18:03:59.355581Z",
+  "checkedAt": "2026-10-30T22:28:08.735307Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -81,8 +81,8 @@
       "city": "London",
       "region": "europe",
       "price": 59,
-      "threshold": 65,
-      "baseline": 108,
+      "threshold": 64,
+      "baseline": 106,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-28T18:25:00+01:00",
@@ -111,8 +111,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 57,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-20T05:45:00+01:00",
@@ -141,8 +141,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 37,
-      "threshold": 52,
-      "baseline": 86,
+      "threshold": 50,
+      "baseline": 84,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -197,34 +197,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD2101LIS24011"
     },
     {
-      "code": "STO",
-      "city": "Stockholm",
+      "code": "ATH",
+      "city": "Athens",
       "region": "europe",
-      "price": 47,
-      "threshold": 71,
-      "baseline": 119,
+      "price": 78,
+      "threshold": 85,
+      "baseline": 142,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-11-26T07:00:00+01:00",
-      "return": "2026-11-28T15:55:00+01:00",
-      "dates": "Nov 26 - Nov 28",
+      "nights": 3,
+      "departure": "2027-01-11T05:50:00+01:00",
+      "return": "2027-01-14T16:00:00+02:00",
+      "dates": "Jan 11 - Jan 14",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
-          "STO",
+          "ATH",
           null
         ],
         [
-          "FR",
-          "STO",
+          "W6",
+          "ATH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2611STO28111"
+      "deep_link": "https://www.aviasales.com/search/BUD1101ATH14011"
     },
     {
       "code": "BER",
@@ -261,8 +261,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 86,
-      "threshold": 97,
-      "baseline": 162,
+      "threshold": 95,
+      "baseline": 159,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-26T12:55:00+01:00",
