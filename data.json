@@ -1,49 +1,7 @@
 {
-  "checkedAt": "2026-10-31T12:45:22.805606Z",
+  "checkedAt": "2026-10-31T19:21:41.520177Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 1343,
-      "threshold": 491,
-      "baseline": 819,
-      "deal": false,
-      "nights": 12,
-      "departure": "2026-11-10T06:00:00+01:00",
-      "return": "2026-11-25T12:00:00",
-      "dates": "Nov 10 - Nov 25",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "LON",
-          76
-        ],
-        [
-          "FR",
-          "LON",
-          "NYC",
-          472
-        ],
-        [
-          "TK",
-          "NYC",
-          "IST",
-          686
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          109
-        ]
-      ],
-      "deep_link": ""
-    },
     {
       "code": "LAX",
       "city": "Los Angeles",
@@ -76,36 +34,6 @@
     }
   ],
   "europe": [
-    {
-      "code": "LON",
-      "city": "London",
-      "region": "europe",
-      "price": 59,
-      "threshold": 63,
-      "baseline": 105,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-28T18:25:00+01:00",
-      "return": "2027-01-30T16:00:00Z",
-      "dates": "Jan 28 - Jan 30",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "LON",
-          null
-        ],
-        [
-          "FR",
-          "LON",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2801LON30011"
-    },
     {
       "code": "ROM",
       "city": "Rome",
@@ -141,7 +69,7 @@
       "city": "Milan",
       "region": "europe",
       "price": 37,
-      "threshold": 53,
+      "threshold": 52,
       "baseline": 88,
       "deal": true,
       "nights": 5,
@@ -172,7 +100,7 @@
       "region": "europe",
       "price": 118,
       "threshold": 124,
-      "baseline": 206,
+      "baseline": 208,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-07T16:00:00+01:00",
@@ -201,8 +129,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 78,
-      "threshold": 87,
-      "baseline": 145,
+      "threshold": 86,
+      "baseline": 144,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-11T05:50:00+01:00",
@@ -231,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 59,
-      "threshold": 79,
-      "baseline": 131,
+      "threshold": 77,
+      "baseline": 128,
       "deal": true,
       "nights": 2,
       "departure": "2026-11-20T05:45:00+01:00",
@@ -261,8 +189,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 86,
-      "threshold": 95,
-      "baseline": 159,
+      "threshold": 101,
+      "baseline": 168,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-26T12:55:00+01:00",
