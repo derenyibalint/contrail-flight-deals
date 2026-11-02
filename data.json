@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-01T22:09:43.126106Z",
+  "checkedAt": "2026-11-02T06:23:11.723362Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 608,
-      "threshold": 670,
-      "baseline": 1116,
+      "threshold": 669,
+      "baseline": 1115,
       "deal": true,
       "nights": 11,
       "departure": "2026-12-17T11:35:00+01:00",
@@ -39,8 +39,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 80,
-      "threshold": 86,
-      "baseline": 144,
+      "threshold": 83,
+      "baseline": 139,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-20T15:40:00+01:00",
@@ -69,8 +69,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 57,
-      "threshold": 63,
-      "baseline": 105,
+      "threshold": 65,
+      "baseline": 109,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-20T05:45:00+01:00",
@@ -99,8 +99,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 37,
-      "threshold": 47,
-      "baseline": 78,
+      "threshold": 45,
+      "baseline": 76,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -125,42 +125,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD0312MIL08121"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
-      "region": "europe",
-      "price": 80,
-      "threshold": 80,
-      "baseline": 133,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-11T05:50:00+01:00",
-      "return": "2027-01-13T09:55:00+02:00",
-      "dates": "Jan 11 - Jan 13",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "W6",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1101ATH13011"
-    },
-    {
       "code": "CPH",
       "city": "Copenhagen",
       "region": "europe",
       "price": 67,
-      "threshold": 68,
-      "baseline": 112,
+      "threshold": 69,
+      "baseline": 116,
       "deal": true,
       "nights": 3,
       "departure": "2027-02-19T06:30:00+01:00",
