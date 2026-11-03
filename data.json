@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T19:34:45.355030Z",
+  "checkedAt": "2026-11-03T02:56:41.552250Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 80,
-      "threshold": 82,
-      "baseline": 138,
+      "threshold": 80,
+      "baseline": 134,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-20T15:40:00+01:00",
@@ -94,34 +94,34 @@
       "deep_link": "https://www.aviasales.com/search/BUD0312MIL08121"
     },
     {
-      "code": "ATH",
-      "city": "Athens",
+      "code": "CPH",
+      "city": "Copenhagen",
       "region": "europe",
-      "price": 80,
-      "threshold": 82,
-      "baseline": 136,
+      "price": 67,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
-      "nights": 2,
-      "departure": "2027-01-11T05:50:00+01:00",
-      "return": "2027-01-13T09:55:00+02:00",
-      "dates": "Jan 11 - Jan 13",
+      "nights": 3,
+      "departure": "2027-02-19T06:30:00+01:00",
+      "return": "2027-02-22T09:05:00+01:00",
+      "dates": "Feb 19 - Feb 22",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "W6",
           "BUD",
-          "ATH",
+          "CPH",
           null
         ],
         [
           "W6",
-          "ATH",
+          "CPH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1101ATH13011"
+      "deep_link": "https://www.aviasales.com/search/BUD1902CPH22021"
     },
     {
       "code": "STO",
@@ -159,7 +159,7 @@
       "region": "europe",
       "price": 62,
       "threshold": 65,
-      "baseline": 109,
+      "baseline": 108,
       "deal": true,
       "nights": 5,
       "departure": "2027-02-01T07:00:00+01:00",
