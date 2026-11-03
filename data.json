@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T11:01:18.210449Z",
+  "checkedAt": "2026-11-03T19:35:29.334787Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -7,14 +7,14 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 80,
-      "threshold": 83,
-      "baseline": 139,
+      "price": 55,
+      "threshold": 84,
+      "baseline": 140,
       "deal": true,
       "nights": 2,
-      "departure": "2027-01-08T05:50:00+01:00",
-      "return": "2027-01-10T11:50:00+01:00",
-      "dates": "Jan 8 - Jan 10",
+      "departure": "2027-01-22T05:50:00+01:00",
+      "return": "2027-01-24T11:50:00+01:00",
+      "dates": "Jan 22 - Jan 24",
       "method": "native",
       "seats": null,
       "legs": [
@@ -31,15 +31,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0801PAR10011"
+      "deep_link": "https://www.aviasales.com/search/BUD2201PAR24011"
     },
     {
       "code": "MAD",
       "city": "Madrid",
       "region": "europe",
       "price": 80,
-      "threshold": 86,
-      "baseline": 144,
+      "threshold": 80,
+      "baseline": 132,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-20T15:40:00+01:00",
@@ -68,8 +68,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 57,
-      "threshold": 63,
-      "baseline": 105,
+      "threshold": 65,
+      "baseline": 108,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-20T05:45:00+01:00",
@@ -99,7 +99,7 @@
       "region": "europe",
       "price": 37,
       "threshold": 46,
-      "baseline": 78,
+      "baseline": 76,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -127,69 +127,39 @@
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
-      "price": 72,
-      "threshold": 75,
-      "baseline": 126,
+      "price": 61,
+      "threshold": 76,
+      "baseline": 127,
       "deal": true,
       "nights": 2,
-      "departure": "2027-01-30T14:00:00+01:00",
-      "return": "2027-02-01T18:55:00+02:00",
-      "dates": "Jan 30 - Feb 1",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "ATH",
-          null
-        ],
-        [
-          "FR",
-          "ATH",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD3001ATH01021"
-    },
-    {
-      "code": "CPH",
-      "city": "Copenhagen",
-      "region": "europe",
-      "price": 67,
-      "threshold": 68,
-      "baseline": 112,
-      "deal": true,
-      "nights": 3,
-      "departure": "2027-02-19T06:30:00+01:00",
-      "return": "2027-02-22T09:05:00+01:00",
-      "dates": "Feb 19 - Feb 22",
+      "departure": "2027-01-29T05:55:00+01:00",
+      "return": "2027-01-31T09:55:00+02:00",
+      "dates": "Jan 29 - Jan 31",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "W6",
           "BUD",
-          "CPH",
+          "ATH",
           null
         ],
         [
           "W6",
-          "CPH",
+          "ATH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1902CPH22021"
+      "deep_link": "https://www.aviasales.com/search/BUD2901ATH31011"
     },
     {
       "code": "STO",
       "city": "Stockholm",
       "region": "europe",
       "price": 65,
-      "threshold": 74,
-      "baseline": 123,
+      "threshold": 70,
+      "baseline": 116,
       "deal": true,
       "nights": 5,
       "departure": "2027-01-23T13:05:00+01:00",
@@ -217,31 +187,31 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 62,
-      "threshold": 67,
-      "baseline": 111,
+      "price": 56,
+      "threshold": 69,
+      "baseline": 114,
       "deal": true,
-      "nights": 5,
-      "departure": "2027-02-01T07:00:00+01:00",
-      "return": "2027-02-06T21:55:00+01:00",
-      "dates": "Feb 1 - Feb 6",
+      "nights": 6,
+      "departure": "2027-01-14T05:55:00+01:00",
+      "return": "2027-01-20T21:05:00+01:00",
+      "dates": "Jan 14 - Jan 20",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "BER",
           null
         ],
         [
-          "W6",
+          "FR",
           "BER",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0102BER06021"
+      "deep_link": "https://www.aviasales.com/search/BUD1401BER20011"
     }
   ]
 }
