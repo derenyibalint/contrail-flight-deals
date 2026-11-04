@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-03T19:35:29.334787Z",
+  "checkedAt": "2026-11-04T01:28:15.928696Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,8 +8,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 55,
-      "threshold": 84,
-      "baseline": 140,
+      "threshold": 83,
+      "baseline": 138,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-22T05:50:00+01:00",
@@ -38,8 +38,8 @@
       "city": "Madrid",
       "region": "europe",
       "price": 80,
-      "threshold": 80,
-      "baseline": 132,
+      "threshold": 82,
+      "baseline": 137,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-20T15:40:00+01:00",
@@ -62,36 +62,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2001MAD24011"
-    },
-    {
-      "code": "ROM",
-      "city": "Rome",
-      "region": "europe",
-      "price": 57,
-      "threshold": 65,
-      "baseline": 108,
-      "deal": true,
-      "nights": 2,
-      "departure": "2027-01-20T05:45:00+01:00",
-      "return": "2027-01-22T14:20:00+01:00",
-      "dates": "Jan 20 - Jan 22",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "ROM",
-          null
-        ],
-        [
-          "FR",
-          "ROM",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2001ROM22011"
     },
     {
       "code": "MIL",
@@ -128,8 +98,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 61,
-      "threshold": 76,
-      "baseline": 127,
+      "threshold": 77,
+      "baseline": 128,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T05:55:00+01:00",
