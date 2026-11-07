@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T10:25:19.272528Z",
+  "checkedAt": "2026-11-07T17:46:09.993164Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -7,14 +7,14 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 55,
+      "price": 84,
       "threshold": 94,
       "baseline": 156,
       "deal": true,
       "nights": 2,
-      "departure": "2027-01-22T05:50:00+01:00",
-      "return": "2027-01-24T11:50:00+01:00",
-      "dates": "Jan 22 - Jan 24",
+      "departure": "2026-12-05T18:55:00+01:00",
+      "return": "2026-12-07T16:45:00+01:00",
+      "dates": "Dec 5 - Dec 7",
       "method": "native",
       "seats": null,
       "legs": [
@@ -31,7 +31,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2201PAR24011"
+      "deep_link": "https://www.aviasales.com/search/BUD0512PAR07121"
     },
     {
       "code": "MAD",
@@ -68,8 +68,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 56,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 71,
+      "baseline": 118,
       "deal": true,
       "nights": 4,
       "departure": "2026-12-31T20:10:00+01:00",
@@ -98,8 +98,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 37,
-      "threshold": 47,
-      "baseline": 78,
+      "threshold": 48,
+      "baseline": 80,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -158,8 +158,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 65,
-      "threshold": 76,
-      "baseline": 127,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 5,
       "departure": "2027-01-23T13:05:00+01:00",
@@ -188,8 +188,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 70,
-      "baseline": 117,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-14T05:55:00+01:00",
