@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T13:39:56.168676Z",
+  "checkedAt": "2026-11-08T19:44:57.459726Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
@@ -8,7 +8,7 @@
       "city": "Paris",
       "region": "europe",
       "price": 84,
-      "threshold": 98,
+      "threshold": 97,
       "baseline": 162,
       "deal": true,
       "nights": 2,
@@ -34,41 +34,11 @@
       "deep_link": "https://www.aviasales.com/search/BUD0512PAR07121"
     },
     {
-      "code": "MAD",
-      "city": "Madrid",
-      "region": "europe",
-      "price": 80,
-      "threshold": 88,
-      "baseline": 146,
-      "deal": true,
-      "nights": 4,
-      "departure": "2027-01-20T15:40:00+01:00",
-      "return": "2027-01-24T18:45:00+01:00",
-      "dates": "Jan 20 - Jan 24",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "MAD",
-          null
-        ],
-        [
-          "FR",
-          "MAD",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2001MAD24011"
-    },
-    {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 56,
-      "threshold": 71,
+      "threshold": 70,
       "baseline": 118,
       "deal": true,
       "nights": 4,
@@ -99,7 +69,7 @@
       "region": "europe",
       "price": 37,
       "threshold": 49,
-      "baseline": 82,
+      "baseline": 81,
       "deal": true,
       "nights": 5,
       "departure": "2026-12-03T08:35:00+01:00",
@@ -158,7 +128,7 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 65,
-      "threshold": 74,
+      "threshold": 75,
       "baseline": 124,
       "deal": true,
       "nights": 5,
