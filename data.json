@@ -1,37 +1,67 @@
 {
-  "checkedAt": "2026-11-09T00:59:19.326361Z",
+  "checkedAt": "2026-11-09T11:47:45.175308Z",
   "monitoringCount": 28,
   "longHaul": [],
   "europe": [
     {
-      "code": "PAR",
-      "city": "Paris",
+      "code": "LON",
+      "city": "London",
       "region": "europe",
-      "price": 84,
-      "threshold": 97,
-      "baseline": 162,
+      "price": 65,
+      "threshold": 66,
+      "baseline": 110,
       "deal": true,
-      "nights": 2,
-      "departure": "2026-12-05T18:55:00+01:00",
-      "return": "2026-12-07T16:45:00+01:00",
-      "dates": "Dec 5 - Dec 7",
+      "nights": 3,
+      "departure": "2027-01-23T05:50:00+01:00",
+      "return": "2027-01-26T08:05:00Z",
+      "dates": "Jan 23 - Jan 26",
       "method": "native",
       "seats": null,
       "legs": [
         [
           "FR",
           "BUD",
-          "PAR",
+          "LON",
           null
         ],
         [
           "FR",
+          "LON",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2301LON26011"
+    },
+    {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 86,
+      "threshold": 95,
+      "baseline": 159,
+      "deal": true,
+      "nights": 2,
+      "departure": "2027-01-22T14:10:00+01:00",
+      "return": "2027-01-24T11:50:00+01:00",
+      "dates": "Jan 22 - Jan 24",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "U2",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "U2",
           "PAR",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0512PAR07121"
+      "deep_link": "https://www.aviasales.com/search/BUD2201PAR24011"
     },
     {
       "code": "ROM",
@@ -67,31 +97,31 @@
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 37,
+      "price": 43,
       "threshold": 49,
       "baseline": 81,
       "deal": true,
       "nights": 5,
-      "departure": "2026-12-03T08:35:00+01:00",
-      "return": "2026-12-08T22:05:00+01:00",
-      "dates": "Dec 3 - Dec 8",
+      "departure": "2027-02-11T08:35:00+01:00",
+      "return": "2027-02-16T22:05:00+01:00",
+      "dates": "Feb 11 - Feb 16",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "MW",
           "BUD",
           "MIL",
           null
         ],
         [
-          "FR",
+          "MW",
           "MIL",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0312MIL08121"
+      "deep_link": "https://www.aviasales.com/search/BUD1102MIL16021"
     },
     {
       "code": "ATH",
@@ -128,8 +158,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 65,
-      "threshold": 74,
-      "baseline": 122,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 5,
       "departure": "2027-01-23T13:05:00+01:00",
@@ -158,8 +188,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 56,
-      "threshold": 74,
-      "baseline": 124,
+      "threshold": 75,
+      "baseline": 126,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-14T05:55:00+01:00",
