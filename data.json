@@ -1,63 +1,50 @@
 {
-  "checkedAt": "2026-11-10T07:28:24.768321Z",
+  "checkedAt": "2026-11-10T23:29:43.069410Z",
   "monitoringCount": 28,
-  "longHaul": [
+  "longHaul": [],
+  "europe": [
     {
-      "code": "SFO",
-      "city": "San Francisco",
-      "region": "long_haul",
-      "price": 2043,
-      "threshold": 560,
-      "baseline": null,
-      "deal": false,
+      "code": "LON",
+      "city": "London",
+      "region": "europe",
+      "price": 65,
+      "threshold": 65,
+      "baseline": 108,
+      "deal": true,
       "nights": 3,
-      "departure": "2026-11-24T12:55:00+01:00",
-      "return": "2026-11-30T16:15:00",
-      "dates": "Nov 24 - Nov 30",
-      "method": "hub-hack",
+      "departure": "2027-01-23T05:50:00+01:00",
+      "return": "2027-01-26T08:05:00Z",
+      "dates": "Jan 23 - Jan 26",
+      "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
-          "IST",
-          125
+          "LON",
+          null
         ],
         [
-          "LH",
-          "IST",
-          "SFO",
-          867
-        ],
-        [
-          "TP",
-          "SFO",
-          "IST",
-          937
-        ],
-        [
-          "PC",
-          "IST",
+          "FR",
+          "LON",
           "BUD",
-          114
+          null
         ]
       ],
-      "deep_link": ""
-    }
-  ],
-  "europe": [
+      "deep_link": "https://www.aviasales.com/search/BUD2301LON26011"
+    },
     {
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 86,
-      "threshold": 97,
-      "baseline": 162,
+      "price": 77,
+      "threshold": 96,
+      "baseline": 160,
       "deal": true,
       "nights": 2,
-      "departure": "2027-01-22T14:10:00+01:00",
-      "return": "2027-01-24T11:50:00+01:00",
-      "dates": "Jan 22 - Jan 24",
+      "departure": "2027-01-15T14:10:00+01:00",
+      "return": "2027-01-17T11:50:00+01:00",
+      "dates": "Jan 15 - Jan 17",
       "method": "native",
       "seats": null,
       "legs": [
@@ -74,7 +61,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2201PAR24011"
+      "deep_link": "https://www.aviasales.com/search/BUD1501PAR17011"
     },
     {
       "code": "ROM",
@@ -111,8 +98,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 43,
-      "threshold": 49,
-      "baseline": 81,
+      "threshold": 51,
+      "baseline": 84,
       "deal": true,
       "nights": 5,
       "departure": "2027-02-11T08:35:00+01:00",
@@ -141,8 +128,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 64,
-      "threshold": 82,
-      "baseline": 137,
+      "threshold": 86,
+      "baseline": 144,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T14:15:00+01:00",
@@ -170,14 +157,14 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 56,
+      "price": 57,
       "threshold": 74,
-      "baseline": 123,
+      "baseline": 124,
       "deal": true,
-      "nights": 6,
-      "departure": "2027-01-14T05:55:00+01:00",
-      "return": "2027-01-20T21:05:00+01:00",
-      "dates": "Jan 14 - Jan 20",
+      "nights": 3,
+      "departure": "2027-01-28T05:55:00+01:00",
+      "return": "2027-01-31T21:55:00+01:00",
+      "dates": "Jan 28 - Jan 31",
       "method": "native",
       "seats": null,
       "legs": [
@@ -194,7 +181,37 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1401BER20011"
+      "deep_link": "https://www.aviasales.com/search/BUD2801BER31011"
+    },
+    {
+      "code": "BGO",
+      "city": "Bergen",
+      "region": "europe",
+      "price": 177,
+      "threshold": 184,
+      "baseline": 306,
+      "deal": true,
+      "nights": 2,
+      "departure": "2026-11-27T11:50:00+01:00",
+      "return": "2026-11-29T21:10:00+01:00",
+      "dates": "Nov 27 - Nov 29",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BGO",
+          null
+        ],
+        [
+          "W6",
+          "BGO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2711BGO29111"
     }
   ]
 }
