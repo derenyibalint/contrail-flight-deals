@@ -1,50 +1,7 @@
 {
-  "checkedAt": "2026-11-12T00:49:13.706253Z",
+  "checkedAt": "2026-11-12T11:28:15.944527Z",
   "monitoringCount": 28,
-  "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 1352,
-      "threshold": 555,
-      "baseline": 925,
-      "deal": false,
-      "nights": 12,
-      "departure": "2026-11-21T18:10:00+01:00",
-      "return": "2026-12-05T18:25:00",
-      "dates": "Nov 21 - Dec 5",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "W4",
-          "BUD",
-          "FRA",
-          161
-        ],
-        [
-          "SK",
-          "FRA",
-          "NYC",
-          534
-        ],
-        [
-          "SK",
-          "NYC",
-          "LON",
-          581
-        ],
-        [
-          "FR",
-          "LON",
-          "BUD",
-          76
-        ]
-      ],
-      "deep_link": ""
-    }
-  ],
+  "longHaul": [],
   "europe": [
     {
       "code": "LON",
@@ -81,7 +38,7 @@
       "city": "Paris",
       "region": "europe",
       "price": 86,
-      "threshold": 97,
+      "threshold": 98,
       "baseline": 162,
       "deal": true,
       "nights": 2,
@@ -110,44 +67,44 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 55,
+      "price": 49,
       "threshold": 71,
       "baseline": 119,
       "deal": true,
-      "nights": 4,
-      "departure": "2026-12-31T20:10:00+01:00",
-      "return": "2027-01-04T20:15:00+01:00",
-      "dates": "Dec 31 - Jan 4",
+      "nights": 6,
+      "departure": "2027-01-21T20:10:00+01:00",
+      "return": "2027-01-27T07:50:00+01:00",
+      "dates": "Jan 21 - Jan 27",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "MW",
           "BUD",
           "ROM",
           null
         ],
         [
-          "FR",
+          "MW",
           "ROM",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD3112ROM04011"
+      "deep_link": "https://www.aviasales.com/search/BUD2101ROM27011"
     },
     {
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 39,
-      "threshold": 54,
-      "baseline": 90,
+      "price": 38,
+      "threshold": 52,
+      "baseline": 86,
       "deal": true,
-      "nights": 5,
-      "departure": "2026-12-03T08:35:00+01:00",
+      "nights": 3,
+      "departure": "2026-12-05T19:55:00+01:00",
       "return": "2026-12-08T22:05:00+01:00",
-      "dates": "Dec 3 - Dec 8",
+      "dates": "Dec 5 - Dec 8",
       "method": "native",
       "seats": null,
       "legs": [
@@ -164,15 +121,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0312MIL08121"
+      "deep_link": "https://www.aviasales.com/search/BUD0512MIL08121"
     },
     {
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
       "price": 64,
-      "threshold": 79,
-      "baseline": 132,
+      "threshold": 80,
+      "baseline": 134,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T14:15:00+01:00",
@@ -201,7 +158,7 @@
       "city": "Berlin",
       "region": "europe",
       "price": 54,
-      "threshold": 77,
+      "threshold": 76,
       "baseline": 128,
       "deal": true,
       "nights": 3,
