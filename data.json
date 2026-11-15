@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T06:46:44.676927Z",
+  "checkedAt": "2026-11-15T16:26:05.838452Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -70,7 +70,7 @@
       "region": "europe",
       "price": 61,
       "threshold": 64,
-      "baseline": 107,
+      "baseline": 106,
       "deal": true,
       "nights": 4,
       "departure": "2027-02-01T06:05:00+01:00",
@@ -128,9 +128,9 @@
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 36,
-      "threshold": 52,
-      "baseline": 87,
+      "price": 33,
+      "threshold": 53,
+      "baseline": 89,
       "deal": true,
       "nights": 4,
       "departure": "2026-12-04T17:15:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 51,
-      "threshold": 82,
-      "baseline": 136,
+      "threshold": 79,
+      "baseline": 132,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-28T05:55:00+01:00",
@@ -219,8 +219,8 @@
       "city": "Istanbul",
       "region": "europe",
       "price": 76,
-      "threshold": 77,
-      "baseline": 129,
+      "threshold": 76,
+      "baseline": 126,
       "deal": true,
       "nights": 4,
       "departure": "2026-12-08T05:00:00+01:00",
@@ -243,6 +243,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD0812IST12121"
+    },
+    {
+      "code": "BGO",
+      "city": "Bergen",
+      "region": "europe",
+      "price": 109,
+      "threshold": 141,
+      "baseline": 235,
+      "deal": true,
+      "nights": 4,
+      "departure": "2027-01-18T11:50:00+01:00",
+      "return": "2027-01-22T15:10:00+01:00",
+      "dates": "Jan 18 - Jan 22",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "BGO",
+          null
+        ],
+        [
+          "W6",
+          "BGO",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1801BGO22011"
     }
   ]
 }
