@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-15T16:26:05.838452Z",
+  "checkedAt": "2026-11-15T22:56:50.968104Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "New York",
       "region": "long_haul",
       "price": 545,
-      "threshold": 554,
-      "baseline": 923,
+      "threshold": 561,
+      "baseline": 936,
       "deal": true,
       "nights": 7,
       "departure": "2027-01-11T10:55:00+01:00",
@@ -68,7 +68,7 @@
       "code": "LON",
       "city": "London",
       "region": "europe",
-      "price": 61,
+      "price": 62,
       "threshold": 64,
       "baseline": 106,
       "deal": true,
@@ -128,7 +128,7 @@
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 33,
+      "price": 32,
       "threshold": 53,
       "baseline": 89,
       "deal": true,
@@ -158,9 +158,9 @@
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
-      "price": 65,
-      "threshold": 79,
-      "baseline": 131,
+      "price": 63,
+      "threshold": 82,
+      "baseline": 136,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T14:15:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 51,
-      "threshold": 79,
-      "baseline": 132,
+      "threshold": 80,
+      "baseline": 134,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-28T05:55:00+01:00",
@@ -213,36 +213,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2801BER31011"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 76,
-      "threshold": 76,
-      "baseline": 126,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-12-08T05:00:00+01:00",
-      "return": "2026-12-12T23:10:00+03:00",
-      "dates": "Dec 8 - Dec 12",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0812IST12121"
     },
     {
       "code": "BGO",
