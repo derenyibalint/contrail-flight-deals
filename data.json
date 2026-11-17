@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T19:41:20.859954Z",
+  "checkedAt": "2026-11-17T03:58:30.221051Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "New York",
       "region": "long_haul",
       "price": 545,
-      "threshold": 577,
-      "baseline": 962,
+      "threshold": 653,
+      "baseline": 1089,
       "deal": true,
       "nights": 7,
       "departure": "2027-01-11T10:55:00+01:00",
@@ -61,48 +61,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1012LAX23121"
-    },
-    {
-      "code": "SFO",
-      "city": "San Francisco",
-      "region": "long_haul",
-      "price": 2054,
-      "threshold": 560,
-      "baseline": null,
-      "deal": false,
-      "nights": 12,
-      "departure": "2026-11-24T12:55:00+01:00",
-      "return": "2026-12-09T12:00:00",
-      "dates": "Nov 24 - Dec 9",
-      "method": "hub-hack",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          107
-        ],
-        [
-          "LH",
-          "IST",
-          "SFO",
-          906
-        ],
-        [
-          "LH",
-          "SFO",
-          "IST",
-          950
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          91
-        ]
-      ],
-      "deep_link": ""
     }
   ],
   "europe": [
@@ -111,8 +69,8 @@
       "city": "London",
       "region": "europe",
       "price": 62,
-      "threshold": 65,
-      "baseline": 109,
+      "threshold": 66,
+      "baseline": 110,
       "deal": true,
       "nights": 4,
       "departure": "2027-02-01T06:05:00+01:00",
@@ -200,7 +158,7 @@
       "code": "LIS",
       "city": "Lisbon",
       "region": "europe",
-      "price": 92,
+      "price": 94,
       "threshold": 105,
       "baseline": 175,
       "deal": true,
@@ -231,8 +189,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 63,
-      "threshold": 77,
-      "baseline": 128,
+      "threshold": 73,
+      "baseline": 122,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T14:15:00+01:00",
@@ -285,36 +243,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2801BER31011"
-    },
-    {
-      "code": "IST",
-      "city": "Istanbul",
-      "region": "europe",
-      "price": 76,
-      "threshold": 76,
-      "baseline": 127,
-      "deal": true,
-      "nights": 4,
-      "departure": "2026-12-08T05:00:00+01:00",
-      "return": "2026-12-12T23:10:00+03:00",
-      "dates": "Dec 8 - Dec 12",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "IST",
-          null
-        ],
-        [
-          "W6",
-          "IST",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0812IST12121"
     },
     {
       "code": "BGO",
