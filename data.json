@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-11-20T11:53:26.209480Z",
+  "checkedAt": "2026-11-20T20:30:09.654984Z",
   "monitoringCount": 28,
   "longHaul": [
     {
       "code": "NYC",
       "city": "New York",
       "region": "long_haul",
-      "price": 545,
+      "price": 556,
       "threshold": 596,
       "baseline": 992,
       "deal": true,
-      "nights": 7,
-      "departure": "2027-01-11T10:55:00+01:00",
-      "return": "2027-01-18T17:30:00-05:00",
-      "dates": "Jan 11 - Jan 18",
+      "nights": 4,
+      "departure": "2026-12-03T07:00:00+01:00",
+      "return": "2026-12-07T22:45:00-05:00",
+      "dates": "Dec 3 - Dec 7",
       "method": "native",
       "seats": null,
       "legs": [
@@ -30,7 +30,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1101NYC18011"
+      "deep_link": "https://www.aviasales.com/search/BUD0312NYC07121"
     }
   ],
   "europe": [
@@ -39,8 +39,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 54,
-      "threshold": 60,
-      "baseline": 100,
+      "threshold": 59,
+      "baseline": 98,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-31T20:10:00+01:00",
@@ -69,7 +69,7 @@
       "city": "Milan",
       "region": "europe",
       "price": 37,
-      "threshold": 52,
+      "threshold": 51,
       "baseline": 86,
       "deal": true,
       "nights": 4,
@@ -99,30 +99,30 @@
       "city": "Athens",
       "region": "europe",
       "price": 59,
-      "threshold": 70,
-      "baseline": 117,
+      "threshold": 68,
+      "baseline": 114,
       "deal": true,
-      "nights": 3,
-      "departure": "2027-01-17T05:40:00+01:00",
-      "return": "2027-01-20T09:55:00+02:00",
-      "dates": "Jan 17 - Jan 20",
+      "nights": 2,
+      "departure": "2027-01-29T14:15:00+01:00",
+      "return": "2027-01-31T09:55:00+02:00",
+      "dates": "Jan 29 - Jan 31",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "ATH",
           null
         ],
         [
-          "W6",
+          "FR",
           "ATH",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1701ATH20011"
+      "deep_link": "https://www.aviasales.com/search/BUD2901ATH31011"
     },
     {
       "code": "STO",
@@ -130,7 +130,7 @@
       "region": "europe",
       "price": 70,
       "threshold": 71,
-      "baseline": 119,
+      "baseline": 118,
       "deal": true,
       "nights": 2,
       "departure": "2027-02-12T17:30:00+01:00",
@@ -159,8 +159,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 58,
-      "threshold": 74,
-      "baseline": 122,
+      "threshold": 75,
+      "baseline": 125,
       "deal": true,
       "nights": 3,
       "departure": "2027-02-04T05:55:00+01:00",
@@ -189,8 +189,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 109,
-      "threshold": 138,
-      "baseline": 230,
+      "threshold": 141,
+      "baseline": 235,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-18T11:50:00+01:00",
