@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T20:30:09.654984Z",
+  "checkedAt": "2026-11-21T02:27:07.588393Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -34,6 +34,36 @@
     }
   ],
   "europe": [
+    {
+      "code": "PAR",
+      "city": "Paris",
+      "region": "europe",
+      "price": 92,
+      "threshold": 98,
+      "baseline": 162,
+      "deal": true,
+      "nights": 3,
+      "departure": "2027-01-14T08:35:00+01:00",
+      "return": "2027-01-17T11:50:00+01:00",
+      "dates": "Jan 14 - Jan 17",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "FR",
+          "BUD",
+          "PAR",
+          null
+        ],
+        [
+          "FR",
+          "PAR",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1401PAR17011"
+    },
     {
       "code": "ROM",
       "city": "Rome",
@@ -129,8 +159,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 70,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 2,
       "departure": "2027-02-12T17:30:00+01:00",
@@ -155,12 +185,42 @@
       "deep_link": "https://www.aviasales.com/search/BUD1202STO14021"
     },
     {
+      "code": "OSL",
+      "city": "Oslo",
+      "region": "europe",
+      "price": 82,
+      "threshold": 83,
+      "baseline": 138,
+      "deal": true,
+      "nights": 5,
+      "departure": "2026-12-02T16:50:00+01:00",
+      "return": "2026-12-07T20:10:00+01:00",
+      "dates": "Dec 2 - Dec 7",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "OSL",
+          null
+        ],
+        [
+          "W6",
+          "OSL",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD0212OSL07121"
+    },
+    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 58,
-      "threshold": 75,
-      "baseline": 125,
+      "threshold": 80,
+      "baseline": 133,
       "deal": true,
       "nights": 3,
       "departure": "2027-02-04T05:55:00+01:00",
