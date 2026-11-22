@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-21T19:27:02.970381Z",
+  "checkedAt": "2026-11-22T01:24:38.283482Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -38,39 +38,39 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 85,
-      "threshold": 96,
-      "baseline": 160,
+      "price": 92,
+      "threshold": 97,
+      "baseline": 161,
       "deal": true,
-      "nights": 2,
-      "departure": "2027-01-15T14:10:00+01:00",
+      "nights": 3,
+      "departure": "2027-01-14T08:35:00+01:00",
       "return": "2027-01-17T11:50:00+01:00",
-      "dates": "Jan 15 - Jan 17",
+      "dates": "Jan 14 - Jan 17",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "U2",
+          "FR",
           "BUD",
           "PAR",
           null
         ],
         [
-          "U2",
+          "FR",
           "PAR",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1501PAR17011"
+      "deep_link": "https://www.aviasales.com/search/BUD1401PAR17011"
     },
     {
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
       "price": 54,
-      "threshold": 56,
-      "baseline": 94,
+      "threshold": 58,
+      "baseline": 97,
       "deal": true,
       "nights": 6,
       "departure": "2026-12-31T20:10:00+01:00",
@@ -185,42 +185,12 @@
       "deep_link": "https://www.aviasales.com/search/BUD1202STO14021"
     },
     {
-      "code": "OSL",
-      "city": "Oslo",
-      "region": "europe",
-      "price": 82,
-      "threshold": 82,
-      "baseline": 136,
-      "deal": true,
-      "nights": 5,
-      "departure": "2026-12-02T16:50:00+01:00",
-      "return": "2026-12-07T20:10:00+01:00",
-      "dates": "Dec 2 - Dec 7",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "OSL",
-          null
-        ],
-        [
-          "W6",
-          "OSL",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD0212OSL07121"
-    },
-    {
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
       "price": 58,
-      "threshold": 78,
-      "baseline": 130,
+      "threshold": 79,
+      "baseline": 131,
       "deal": true,
       "nights": 3,
       "departure": "2027-02-04T05:55:00+01:00",
