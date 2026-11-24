@@ -1,13 +1,44 @@
 {
-  "checkedAt": "2026-11-24T02:18:25.414435Z",
+  "checkedAt": "2026-11-24T13:56:01.221638Z",
   "monitoringCount": 28,
-  "longHaul": [],
+  "longHaul": [
+    {
+      "code": "NYC",
+      "city": "New York",
+      "region": "long_haul",
+      "price": 579,
+      "threshold": 580,
+      "baseline": 966,
+      "deal": true,
+      "nights": 7,
+      "departure": "2027-01-20T19:00:00+01:00",
+      "return": "2027-01-27T19:35:00-05:00",
+      "dates": "Jan 20 - Jan 27",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "W6",
+          "BUD",
+          "NYC",
+          null
+        ],
+        [
+          "W6",
+          "NYC",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD2001NYC27011"
+    }
+  ],
   "europe": [
     {
       "code": "LON",
       "city": "London",
       "region": "europe",
-      "price": 54,
+      "price": 47,
       "threshold": 64,
       "baseline": 106,
       "deal": true,
@@ -38,8 +69,8 @@
       "city": "Paris",
       "region": "europe",
       "price": 92,
-      "threshold": 98,
-      "baseline": 163,
+      "threshold": 96,
+      "baseline": 160,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-14T08:35:00+01:00",
@@ -68,8 +99,8 @@
       "city": "Rome",
       "region": "europe",
       "price": 45,
-      "threshold": 55,
-      "baseline": 92,
+      "threshold": 58,
+      "baseline": 96,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-21T20:10:00+01:00",
@@ -97,14 +128,14 @@
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 28,
-      "threshold": 49,
-      "baseline": 81,
+      "price": 31,
+      "threshold": 50,
+      "baseline": 84,
       "deal": true,
-      "nights": 3,
-      "departure": "2026-12-05T19:55:00+01:00",
-      "return": "2026-12-08T22:05:00+01:00",
-      "dates": "Dec 5 - Dec 8",
+      "nights": 4,
+      "departure": "2027-01-21T08:35:00+01:00",
+      "return": "2027-01-25T10:50:00+01:00",
+      "dates": "Jan 21 - Jan 25",
       "method": "native",
       "seats": null,
       "legs": [
@@ -121,14 +152,14 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0512MIL08121"
+      "deep_link": "https://www.aviasales.com/search/BUD2101MIL25011"
     },
     {
       "code": "ATH",
       "city": "Athens",
       "region": "europe",
       "price": 59,
-      "threshold": 70,
+      "threshold": 71,
       "baseline": 118,
       "deal": true,
       "nights": 3,
@@ -187,39 +218,39 @@
       "code": "BER",
       "city": "Berlin",
       "region": "europe",
-      "price": 58,
+      "price": 59,
       "threshold": 77,
       "baseline": 128,
       "deal": true,
-      "nights": 3,
-      "departure": "2027-02-04T05:55:00+01:00",
-      "return": "2027-02-07T12:55:00+01:00",
-      "dates": "Feb 4 - Feb 7",
+      "nights": 6,
+      "departure": "2027-02-04T19:00:00+01:00",
+      "return": "2027-02-10T21:05:00+01:00",
+      "dates": "Feb 4 - Feb 10",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "FR",
+          "W6",
           "BUD",
           "BER",
           null
         ],
         [
-          "FR",
+          "W6",
           "BER",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD0402BER07021"
+      "deep_link": "https://www.aviasales.com/search/BUD0402BER10021"
     },
     {
       "code": "BGO",
       "city": "Bergen",
       "region": "europe",
-      "price": 101,
-      "threshold": 141,
-      "baseline": 236,
+      "price": 103,
+      "threshold": 145,
+      "baseline": 241,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-18T11:50:00+01:00",
@@ -248,8 +279,8 @@
       "city": "Madeira",
       "region": "europe",
       "price": 129,
-      "threshold": 139,
-      "baseline": 231,
+      "threshold": 134,
+      "baseline": 222,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-14T08:35:00+01:00",
