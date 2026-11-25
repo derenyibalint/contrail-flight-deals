@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T13:56:01.221638Z",
+  "checkedAt": "2026-11-24T23:56:27.364569Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -8,7 +8,7 @@
       "region": "long_haul",
       "price": 579,
       "threshold": 580,
-      "baseline": 966,
+      "baseline": 967,
       "deal": true,
       "nights": 7,
       "departure": "2027-01-20T19:00:00+01:00",
@@ -31,6 +31,36 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD2001NYC27011"
+    },
+    {
+      "code": "LAX",
+      "city": "Los Angeles",
+      "region": "long_haul",
+      "price": 635,
+      "threshold": 870,
+      "baseline": 1450,
+      "deal": true,
+      "nights": 12,
+      "departure": "2027-01-13T06:40:00+01:00",
+      "return": "2027-01-25T17:30:00-08:00",
+      "dates": "Jan 13 - Jan 25",
+      "method": "native",
+      "seats": null,
+      "legs": [
+        [
+          "LH",
+          "BUD",
+          "LAX",
+          null
+        ],
+        [
+          "LH",
+          "LAX",
+          "BUD",
+          null
+        ]
+      ],
+      "deep_link": "https://www.aviasales.com/search/BUD1301LAX25011"
     }
   ],
   "europe": [
@@ -39,38 +69,38 @@
       "city": "London",
       "region": "europe",
       "price": 47,
-      "threshold": 64,
-      "baseline": 106,
+      "threshold": 61,
+      "baseline": 101,
       "deal": true,
-      "nights": 4,
-      "departure": "2027-01-21T17:30:00+01:00",
-      "return": "2027-01-25T07:05:00Z",
-      "dates": "Jan 21 - Jan 25",
+      "nights": 3,
+      "departure": "2027-01-23T05:50:00+01:00",
+      "return": "2027-01-26T08:05:00Z",
+      "dates": "Jan 23 - Jan 26",
       "method": "native",
       "seats": null,
       "legs": [
         [
-          "W6",
+          "FR",
           "BUD",
           "LON",
           null
         ],
         [
-          "W6",
+          "FR",
           "LON",
           "BUD",
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2101LON25011"
+      "deep_link": "https://www.aviasales.com/search/BUD2301LON26011"
     },
     {
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
       "price": 92,
-      "threshold": 96,
-      "baseline": 160,
+      "threshold": 95,
+      "baseline": 158,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-14T08:35:00+01:00",
@@ -98,14 +128,14 @@
       "code": "ROM",
       "city": "Rome",
       "region": "europe",
-      "price": 45,
+      "price": 44,
       "threshold": 58,
-      "baseline": 96,
+      "baseline": 97,
       "deal": true,
-      "nights": 6,
-      "departure": "2027-01-21T20:10:00+01:00",
-      "return": "2027-01-27T21:25:00+01:00",
-      "dates": "Jan 21 - Jan 27",
+      "nights": 2,
+      "departure": "2027-01-16T19:35:00+01:00",
+      "return": "2027-01-18T09:00:00+01:00",
+      "dates": "Jan 16 - Jan 18",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,15 +152,15 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD2101ROM27011"
+      "deep_link": "https://www.aviasales.com/search/BUD1601ROM18011"
     },
     {
       "code": "MIL",
       "city": "Milan",
       "region": "europe",
-      "price": 31,
-      "threshold": 50,
-      "baseline": 84,
+      "price": 30,
+      "threshold": 48,
+      "baseline": 80,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-21T08:35:00+01:00",
@@ -189,8 +219,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 70,
-      "threshold": 72,
-      "baseline": 120,
+      "threshold": 70,
+      "baseline": 118,
       "deal": true,
       "nights": 2,
       "departure": "2027-02-12T17:30:00+01:00",
@@ -219,8 +249,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 59,
-      "threshold": 77,
-      "baseline": 128,
+      "threshold": 76,
+      "baseline": 126,
       "deal": true,
       "nights": 6,
       "departure": "2027-02-04T19:00:00+01:00",
@@ -249,8 +279,8 @@
       "city": "Bergen",
       "region": "europe",
       "price": 103,
-      "threshold": 145,
-      "baseline": 241,
+      "threshold": 134,
+      "baseline": 224,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-18T11:50:00+01:00",
@@ -279,8 +309,8 @@
       "city": "Madeira",
       "region": "europe",
       "price": 129,
-      "threshold": 134,
-      "baseline": 222,
+      "threshold": 129,
+      "baseline": 214,
       "deal": true,
       "nights": 6,
       "departure": "2027-01-14T08:35:00+01:00",
