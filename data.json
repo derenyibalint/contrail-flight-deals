@@ -1,37 +1,7 @@
 {
-  "checkedAt": "2026-11-24T23:56:27.364569Z",
+  "checkedAt": "2026-11-25T08:49:19.788936Z",
   "monitoringCount": 28,
   "longHaul": [
-    {
-      "code": "NYC",
-      "city": "New York",
-      "region": "long_haul",
-      "price": 579,
-      "threshold": 580,
-      "baseline": 967,
-      "deal": true,
-      "nights": 7,
-      "departure": "2027-01-20T19:00:00+01:00",
-      "return": "2027-01-27T19:35:00-05:00",
-      "dates": "Jan 20 - Jan 27",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "NYC",
-          null
-        ],
-        [
-          "W6",
-          "NYC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD2001NYC27011"
-    },
     {
       "code": "LAX",
       "city": "Los Angeles",
@@ -69,8 +39,8 @@
       "city": "London",
       "region": "europe",
       "price": 47,
-      "threshold": 61,
-      "baseline": 101,
+      "threshold": 60,
+      "baseline": 100,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-23T05:50:00+01:00",
@@ -98,14 +68,14 @@
       "code": "PAR",
       "city": "Paris",
       "region": "europe",
-      "price": 92,
+      "price": 84,
       "threshold": 95,
       "baseline": 158,
       "deal": true,
-      "nights": 3,
-      "departure": "2027-01-14T08:35:00+01:00",
-      "return": "2027-01-17T11:50:00+01:00",
-      "dates": "Jan 14 - Jan 17",
+      "nights": 5,
+      "departure": "2027-01-16T13:30:00+01:00",
+      "return": "2027-01-21T18:20:00+01:00",
+      "dates": "Jan 16 - Jan 21",
       "method": "native",
       "seats": null,
       "legs": [
@@ -122,7 +92,7 @@
           null
         ]
       ],
-      "deep_link": "https://www.aviasales.com/search/BUD1401PAR17011"
+      "deep_link": "https://www.aviasales.com/search/BUD1601PAR21011"
     },
     {
       "code": "ROM",
@@ -159,8 +129,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 30,
-      "threshold": 48,
-      "baseline": 80,
+      "threshold": 47,
+      "baseline": 79,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-21T08:35:00+01:00",
@@ -189,8 +159,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 59,
-      "threshold": 71,
-      "baseline": 118,
+      "threshold": 68,
+      "baseline": 114,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-17T05:40:00+01:00",
@@ -219,8 +189,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 70,
-      "threshold": 70,
-      "baseline": 118,
+      "threshold": 73,
+      "baseline": 121,
       "deal": true,
       "nights": 2,
       "departure": "2027-02-12T17:30:00+01:00",
@@ -303,36 +273,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1801BGO22011"
-    },
-    {
-      "code": "FNC",
-      "city": "Madeira",
-      "region": "europe",
-      "price": 129,
-      "threshold": 129,
-      "baseline": 214,
-      "deal": true,
-      "nights": 6,
-      "departure": "2027-01-14T08:35:00+01:00",
-      "return": "2027-01-20T19:20:00Z",
-      "dates": "Jan 14 - Jan 20",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "FR",
-          "BUD",
-          "FNC",
-          null
-        ],
-        [
-          "FR",
-          "FNC",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1401FNC20011"
     }
   ]
 }
