@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26T17:03:21.594136Z",
+  "checkedAt": "2026-11-27T01:46:48.937953Z",
   "monitoringCount": 28,
   "longHaul": [
     {
@@ -7,8 +7,8 @@
       "city": "Los Angeles",
       "region": "long_haul",
       "price": 635,
-      "threshold": 852,
-      "baseline": 1420,
+      "threshold": 779,
+      "baseline": 1298,
       "deal": true,
       "nights": 12,
       "departure": "2027-01-13T06:40:00+01:00",
@@ -31,36 +31,6 @@
         ]
       ],
       "deep_link": "https://www.aviasales.com/search/BUD1301LAX25011"
-    },
-    {
-      "code": "KEF",
-      "city": "Reykjavik",
-      "region": "long_haul",
-      "price": 132,
-      "threshold": 132,
-      "baseline": 220,
-      "deal": true,
-      "nights": 3,
-      "departure": "2027-01-14T06:45:00+01:00",
-      "return": "2027-01-17T19:30:00Z",
-      "dates": "Jan 14 - Jan 17",
-      "method": "native",
-      "seats": null,
-      "legs": [
-        [
-          "W6",
-          "BUD",
-          "KEF",
-          null
-        ],
-        [
-          "W6",
-          "KEF",
-          "BUD",
-          null
-        ]
-      ],
-      "deep_link": "https://www.aviasales.com/search/BUD1401KEF17011"
     }
   ],
   "europe": [
@@ -69,8 +39,8 @@
       "city": "London",
       "region": "europe",
       "price": 47,
-      "threshold": 67,
-      "baseline": 112,
+      "threshold": 64,
+      "baseline": 107,
       "deal": true,
       "nights": 3,
       "departure": "2027-01-23T05:50:00+01:00",
@@ -129,8 +99,8 @@
       "city": "Milan",
       "region": "europe",
       "price": 31,
-      "threshold": 49,
-      "baseline": 81,
+      "threshold": 48,
+      "baseline": 80,
       "deal": true,
       "nights": 4,
       "departure": "2027-01-21T08:35:00+01:00",
@@ -159,8 +129,8 @@
       "city": "Athens",
       "region": "europe",
       "price": 56,
-      "threshold": 62,
-      "baseline": 104,
+      "threshold": 69,
+      "baseline": 114,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T05:55:00+01:00",
@@ -189,8 +159,8 @@
       "city": "Stockholm",
       "region": "europe",
       "price": 49,
-      "threshold": 73,
-      "baseline": 121,
+      "threshold": 72,
+      "baseline": 120,
       "deal": true,
       "nights": 2,
       "departure": "2027-01-29T17:30:00+01:00",
@@ -219,8 +189,8 @@
       "city": "Berlin",
       "region": "europe",
       "price": 52,
-      "threshold": 77,
-      "baseline": 129,
+      "threshold": 78,
+      "baseline": 130,
       "deal": true,
       "nights": 5,
       "departure": "2027-02-22T07:00:00+01:00",
